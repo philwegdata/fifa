@@ -1,0 +1,5845 @@
+fifa_version,overall,club_name
+15,77.0,Arsenal
+16,78.0,Arsenal
+17,79.0,Arsenal
+18,79.0,Arsenal
+19,78.0,Arsenal
+20,76.0,Arsenal
+21,77.0,Arsenal
+22,76.0,Arsenal
+23,77.0,Arsenal
+15,73.0,Aston Villa
+16,73.0,Aston Villa
+17,72.0,Aston Villa
+18,72.0,Aston Villa
+19,71.0,Aston Villa
+20,73.0,Aston Villa
+21,75.0,Aston Villa
+22,75.0,Aston Villa
+23,76.0,Aston Villa
+15,66.0,Blackburn Rovers
+16,66.0,Blackburn Rovers
+17,67.0,Blackburn Rovers
+18,67.0,Blackburn Rovers
+19,66.0,Blackburn Rovers
+20,68.0,Blackburn Rovers
+21,68.0,Blackburn Rovers
+22,69.0,Blackburn Rovers
+23,67.0,Blackburn Rovers
+15,66.0,Bolton Wanderers
+16,66.0,Bolton Wanderers
+17,66.0,Bolton Wanderers
+18,67.0,Bolton Wanderers
+19,67.0,Bolton Wanderers
+20,63.0,Bolton Wanderers
+21,61.0,Bolton Wanderers
+22,64.0,Bolton Wanderers
+23,65.0,Bolton Wanderers
+15,80.0,Chelsea
+16,79.0,Chelsea
+17,78.0,Chelsea
+18,80.0,Chelsea
+19,79.0,Chelsea
+20,79.0,Chelsea
+21,80.0,Chelsea
+22,81.0,Chelsea
+23,81.0,Chelsea
+15,76.0,Everton
+16,76.0,Everton
+17,76.0,Everton
+18,77.0,Everton
+19,76.0,Everton
+20,76.0,Everton
+21,76.0,Everton
+22,76.0,Everton
+23,76.0,Everton
+15,66.0,Leeds United
+16,67.0,Leeds United
+17,69.0,Leeds United
+18,70.0,Leeds United
+19,70.0,Leeds United
+20,71.0,Leeds United
+21,71.0,Leeds United
+22,73.0,Leeds United
+23,75.0,Leeds United
+15,76.0,Liverpool
+16,76.0,Liverpool
+17,78.0,Liverpool
+18,78.0,Liverpool
+19,79.0,Liverpool
+20,80.0,Liverpool
+21,79.0,Liverpool
+22,78.0,Liverpool
+23,81.0,Liverpool
+15,79.0,Manchester City
+16,79.0,Manchester City
+17,79.0,Manchester City
+18,79.0,Manchester City
+19,81.0,Manchester City
+20,80.0,Manchester City
+21,81.0,Manchester City
+22,81.0,Manchester City
+23,83.0,Manchester City
+15,77.0,Manchester United
+16,78.0,Manchester United
+17,80.0,Manchester United
+18,80.0,Manchester United
+19,79.0,Manchester United
+20,77.0,Manchester United
+21,79.0,Manchester United
+22,79.0,Manchester United
+23,80.0,Manchester United
+15,67.0,Middlesbrough
+16,71.0,Middlesbrough
+17,73.0,Middlesbrough
+18,70.0,Middlesbrough
+19,70.0,Middlesbrough
+20,68.0,Middlesbrough
+21,69.0,Middlesbrough
+22,69.0,Middlesbrough
+23,70.0,Middlesbrough
+15,72.0,Newcastle United
+16,75.0,Newcastle United
+17,73.0,Newcastle United
+18,73.0,Newcastle United
+19,75.0,Newcastle United
+20,75.0,Newcastle United
+21,74.0,Newcastle United
+22,74.0,Newcastle United
+23,75.0,Newcastle United
+15,68.0,Nottingham Forest
+16,69.0,Nottingham Forest
+17,69.0,Nottingham Forest
+18,69.0,Nottingham Forest
+19,71.0,Nottingham Forest
+20,71.0,Nottingham Forest
+21,70.0,Nottingham Forest
+22,69.0,Nottingham Forest
+23,73.0,Nottingham Forest
+15,72.0,Queens Park Rangers
+16,70.0,Queens Park Rangers
+17,69.0,Queens Park Rangers
+18,68.0,Queens Park Rangers
+19,67.0,Queens Park Rangers
+20,67.0,Queens Park Rangers
+21,67.0,Queens Park Rangers
+22,68.0,Queens Park Rangers
+23,67.0,Queens Park Rangers
+15,74.0,Southampton
+16,74.0,Southampton
+17,75.0,Southampton
+18,75.0,Southampton
+19,74.0,Southampton
+20,73.0,Southampton
+21,74.0,Southampton
+22,74.0,Southampton
+23,74.0,Southampton
+15,76.0,Tottenham Hotspur
+16,75.0,Tottenham Hotspur
+17,78.0,Tottenham Hotspur
+18,79.0,Tottenham Hotspur
+19,79.0,Tottenham Hotspur
+20,79.0,Tottenham Hotspur
+21,79.0,Tottenham Hotspur
+22,77.0,Tottenham Hotspur
+23,78.0,Tottenham Hotspur
+15,71.0,West Ham United
+16,74.0,West Ham United
+17,76.0,West Ham United
+18,75.0,West Ham United
+19,76.0,West Ham United
+20,76.0,West Ham United
+21,76.0,West Ham United
+22,76.0,West Ham United
+23,78.0,West Ham United
+15,81.0,FC Bayern München
+16,81.0,FC Bayern München
+17,82.0,FC Bayern München
+18,82.0,FC Bayern München
+19,83.0,FC Bayern München
+20,84.0,FC Bayern München
+21,82.0,FC Bayern München
+22,79.0,FC Bayern München
+23,82.0,FC Bayern München
+15,78.0,Borussia Dortmund
+16,77.0,Borussia Dortmund
+17,78.0,Borussia Dortmund
+18,79.0,Borussia Dortmund
+19,78.0,Borussia Dortmund
+20,79.0,Borussia Dortmund
+21,78.0,Borussia Dortmund
+22,78.0,Borussia Dortmund
+23,77.0,Borussia Dortmund
+15,74.0,Borussia Mönchengladbach
+16,75.0,Borussia Mönchengladbach
+17,76.0,Borussia Mönchengladbach
+18,76.0,Borussia Mönchengladbach
+19,77.0,Borussia Mönchengladbach
+20,76.0,Borussia Mönchengladbach
+21,74.0,Borussia Mönchengladbach
+22,73.0,Borussia Mönchengladbach
+23,73.0,Borussia Mönchengladbach
+15,71.0,SC Freiburg
+16,69.0,SC Freiburg
+17,71.0,SC Freiburg
+18,71.0,SC Freiburg
+19,72.0,SC Freiburg
+20,72.0,SC Freiburg
+21,72.0,SC Freiburg
+22,73.0,SC Freiburg
+23,74.0,SC Freiburg
+18,64.0,Hansa Rostock
+19,64.0,Hansa Rostock
+20,64.0,Hansa Rostock
+21,64.0,Hansa Rostock
+22,66.0,Hansa Rostock
+23,67.0,Hansa Rostock
+15,73.0,Hamburger SV
+16,73.0,Hamburger SV
+17,74.0,Hamburger SV
+18,70.0,Hamburger SV
+19,70.0,Hamburger SV
+20,71.0,Hamburger SV
+21,70.0,Hamburger SV
+22,69.0,Hamburger SV
+23,69.0,Hamburger SV
+15,67.0,Kaiserslautern
+16,67.0,Kaiserslautern
+17,68.0,Kaiserslautern
+18,67.0,Kaiserslautern
+19,65.0,Kaiserslautern
+20,65.0,Kaiserslautern
+21,64.0,Kaiserslautern
+22,64.0,Kaiserslautern
+23,66.0,Kaiserslautern
+15,71.0,FC Köln
+16,73.0,FC Köln
+17,74.0,FC Köln
+18,73.0,FC Köln
+19,73.0,FC Köln
+20,73.0,FC Köln
+21,72.0,FC Köln
+22,72.0,FC Köln
+23,70.0,FC Köln
+15,74.0,Bayer 04 Leverkusen
+16,76.0,Bayer 04 Leverkusen
+17,77.0,Bayer 04 Leverkusen
+18,76.0,Bayer 04 Leverkusen
+19,77.0,Bayer 04 Leverkusen
+20,78.0,Bayer 04 Leverkusen
+21,77.0,Bayer 04 Leverkusen
+22,77.0,Bayer 04 Leverkusen
+23,78.0,Bayer 04 Leverkusen
+15,65.0,1860 München
+16,66.0,1860 München
+17,68.0,1860 München
+19,62.0,1860 München
+20,63.0,1860 München
+21,63.0,1860 München
+22,64.0,1860 München
+23,65.0,1860 München
+15,74.0,Schalke 04
+16,75.0,Schalke 04
+17,77.0,Schalke 04
+18,77.0,Schalke 04
+19,76.0,Schalke 04
+20,75.0,Schalke 04
+21,72.0,Schalke 04
+22,69.0,Schalke 04
+23,71.0,Schalke 04
+15,72.0,VfB Stuttgart
+16,73.0,VfB Stuttgart
+17,70.0,VfB Stuttgart
+18,73.0,VfB Stuttgart
+19,74.0,VfB Stuttgart
+20,70.0,VfB Stuttgart
+21,70.0,VfB Stuttgart
+22,70.0,VfB Stuttgart
+23,69.0,VfB Stuttgart
+15,71.0,Werder Bremen
+16,69.0,Werder Bremen
+17,73.0,Werder Bremen
+18,75.0,Werder Bremen
+19,74.0,Werder Bremen
+20,74.0,Werder Bremen
+21,70.0,Werder Bremen
+22,69.0,Werder Bremen
+23,70.0,Werder Bremen
+15,71.0,Atalanta
+16,73.0,Atalanta
+17,73.0,Atalanta
+18,73.0,Atalanta
+19,73.0,Atalanta
+20,77.0,Atalanta
+21,77.0,Atalanta
+22,78.0,Atalanta
+23,77.0,Atalanta
+15,74.0,Inter
+16,77.0,Inter
+17,77.0,Inter
+18,78.0,Inter
+19,80.0,Inter
+20,79.0,Inter
+21,80.0,Inter
+22,81.0,Inter
+23,82.0,Inter
+15,77.0,Juventus
+16,80.0,Juventus
+17,83.0,Juventus
+18,83.0,Juventus
+19,84.0,Juventus
+20,83.0,Juventus
+21,81.0,Juventus
+22,81.0,Juventus
+23,79.0,Juventus
+15,75.0,Lazio
+16,77.0,Lazio
+17,76.0,Lazio
+18,77.0,Lazio
+19,77.0,Lazio
+20,78.0,Lazio
+21,77.0,Lazio
+22,77.0,Lazio
+23,76.0,Lazio
+15,76.0,Milan
+16,77.0,Milan
+17,78.0,Milan
+18,77.0,Milan
+19,78.0,Milan
+20,78.0,Milan
+21,77.0,Milan
+22,78.0,Milan
+23,78.0,Milan
+15,74.0,Napoli
+16,77.0,Napoli
+17,79.0,Napoli
+18,79.0,Napoli
+19,80.0,Napoli
+20,79.0,Napoli
+21,78.0,Napoli
+22,78.0,Napoli
+23,78.0,Napoli
+15,67.0,Parma
+18,67.0,Parma
+19,71.0,Parma
+20,73.0,Parma
+21,72.0,Parma
+22,68.0,Parma
+23,67.5,Parma
+15,77.0,Roma
+16,77.0,Roma
+17,80.0,Roma
+18,78.0,Roma
+19,78.0,Roma
+20,78.0,Roma
+21,75.0,Roma
+22,75.0,Roma
+23,76.0,Roma
+15,72.0,Torino
+16,75.0,Torino
+17,76.0,Torino
+18,75.0,Torino
+19,75.0,Torino
+20,75.0,Torino
+21,73.0,Torino
+22,74.0,Torino
+23,74.0,Torino
+15,72.0,Udinese
+16,74.0,Udinese
+17,74.0,Udinese
+18,73.0,Udinese
+19,74.0,Udinese
+20,74.0,Udinese
+21,72.0,Udinese
+22,73.0,Udinese
+23,73.0,Udinese
+15,62.0,Auxerre
+16,61.0,Auxerre
+17,64.0,Auxerre
+18,65.0,Auxerre
+19,67.0,Auxerre
+20,68.0,Auxerre
+21,67.0,Auxerre
+22,67.0,Auxerre
+23,70.0,Auxerre
+15,67.0,Bastia
+16,69.0,Bastia
+17,70.0,Bastia
+22,64.0,Bastia
+23,63.0,Bastia
+15,70.0,Bordeaux
+16,71.0,Bordeaux
+17,73.0,Bordeaux
+18,72.0,Bordeaux
+19,72.0,Bordeaux
+20,74.0,Bordeaux
+21,73.0,Bordeaux
+22,71.0,Bordeaux
+23,67.0,Bordeaux
+15,69.0,Guingamp
+16,71.0,Guingamp
+17,72.0,Guingamp
+18,72.0,Guingamp
+19,72.0,Guingamp
+20,68.0,Guingamp
+21,67.0,Guingamp
+22,65.0,Guingamp
+23,65.0,Guingamp
+15,65.0,Lens
+16,65.0,Lens
+17,66.0,Lens
+18,66.0,Lens
+19,66.0,Lens
+20,68.0,Lens
+21,71.0,Lens
+22,73.0,Lens
+23,74.0,Lens
+15,72.0,Lille
+16,71.0,Lille
+17,73.0,Lille
+18,72.0,Lille
+19,72.0,Lille
+20,73.0,Lille
+21,75.0,Lille
+22,74.0,Lille
+23,74.0,Lille
+15,71.0,Olympique Lyonnais
+16,74.0,Olympique Lyonnais
+17,75.0,Olympique Lyonnais
+18,74.0,Olympique Lyonnais
+19,76.0,Olympique Lyonnais
+20,76.0,Olympique Lyonnais
+21,76.0,Olympique Lyonnais
+22,75.0,Olympique Lyonnais
+23,74.0,Olympique Lyonnais
+15,66.0,Metz
+16,66.0,Metz
+17,69.0,Metz
+18,70.0,Metz
+19,70.0,Metz
+20,71.0,Metz
+21,69.0,Metz
+22,71.0,Metz
+23,68.0,Metz
+15,73.0,Monaco
+16,72.0,Monaco
+17,74.0,Monaco
+18,74.0,Monaco
+19,75.0,Monaco
+20,75.0,Monaco
+21,75.0,Monaco
+22,76.0,Monaco
+23,76.0,Monaco
+15,70.0,Montpellier
+16,70.0,Montpellier
+17,70.0,Montpellier
+18,71.0,Montpellier
+19,71.0,Montpellier
+20,70.5,Montpellier
+21,70.0,Montpellier
+22,73.0,Montpellier
+23,73.0,Montpellier
+15,66.0,Nantes
+16,69.0,Nantes
+17,71.0,Nantes
+18,71.0,Nantes
+19,71.0,Nantes
+20,72.0,Nantes
+21,70.0,Nantes
+22,70.0,Nantes
+23,72.0,Nantes
+15,68.0,Nice
+16,71.0,Nice
+17,72.0,Nice
+18,72.0,Nice
+19,71.0,Nice
+20,72.0,Nice
+21,73.0,Nice
+22,75.0,Nice
+23,75.0,Nice
+15,77.0,Paris Saint Germain
+16,80.0,Paris Saint Germain
+17,80.0,Paris Saint Germain
+18,80.0,Paris Saint Germain
+19,80.0,Paris Saint Germain
+20,81.0,Paris Saint Germain
+21,80.0,Paris Saint Germain
+22,80.0,Paris Saint Germain
+23,80.0,Paris Saint Germain
+15,72.0,Rennes
+16,72.0,Rennes
+17,70.0,Rennes
+18,70.0,Rennes
+19,73.0,Rennes
+20,74.0,Rennes
+21,74.0,Rennes
+22,75.0,Rennes
+23,75.0,Rennes
+17,64.0,Strasbourg
+18,69.0,Strasbourg
+19,71.0,Strasbourg
+20,72.0,Strasbourg
+21,72.0,Strasbourg
+22,74.0,Strasbourg
+23,74.0,Strasbourg
+15,63.0,Aberdeen
+16,64.0,Aberdeen
+17,66.0,Aberdeen
+18,68.0,Aberdeen
+19,66.0,Aberdeen
+20,66.0,Aberdeen
+21,66.0,Aberdeen
+22,66.0,Aberdeen
+23,64.0,Aberdeen
+15,69.0,Celtic
+16,69.0,Celtic
+17,70.0,Celtic
+18,73.0,Celtic
+19,73.0,Celtic
+20,72.0,Celtic
+21,72.0,Celtic
+22,71.0,Celtic
+23,73.0,Celtic
+16,64.0,Hearts
+17,63.0,Hearts
+18,63.0,Hearts
+19,66.0,Hearts
+20,66.0,Hearts
+22,67.0,Hearts
+23,68.0,Hearts
+18,65.0,Hibernian
+19,65.0,Hibernian
+20,66.0,Hibernian
+21,66.0,Hibernian
+22,65.0,Hibernian
+23,65.0,Hibernian
+15,60.0,Kilmarnock
+16,62.0,Kilmarnock
+17,59.0,Kilmarnock
+18,63.0,Kilmarnock
+19,66.0,Kilmarnock
+20,65.0,Kilmarnock
+21,64.0,Kilmarnock
+23,63.0,Kilmarnock
+15,59.0,Motherwell
+16,61.0,Motherwell
+17,60.0,Motherwell
+18,62.0,Motherwell
+19,64.0,Motherwell
+20,65.0,Motherwell
+21,64.0,Motherwell
+22,63.0,Motherwell
+23,64.0,Motherwell
+15,62.0,Rangers
+17,67.0,Rangers
+18,69.0,Rangers
+19,71.0,Rangers
+20,71.0,Rangers
+21,72.0,Rangers
+22,74.0,Rangers
+23,73.0,Rangers
+15,65.0,Birmingham City
+16,68.0,Birmingham City
+17,70.0,Birmingham City
+18,70.0,Birmingham City
+19,69.0,Birmingham City
+20,69.0,Birmingham City
+21,69.0,Birmingham City
+22,69.0,Birmingham City
+23,67.0,Birmingham City
+15,64.0,Charlton Athletic
+16,68.0,Charlton Athletic
+17,66.0,Charlton Athletic
+18,65.0,Charlton Athletic
+19,66.0,Charlton Athletic
+20,67.0,Charlton Athletic
+21,65.0,Charlton Athletic
+22,65.0,Charlton Athletic
+23,65.0,Charlton Athletic
+15,67.0,Derby County
+16,70.0,Derby County
+17,70.0,Derby County
+18,70.0,Derby County
+19,70.0,Derby County
+20,69.0,Derby County
+21,68.0,Derby County
+22,68.0,Derby County
+23,66.0,Derby County
+17,60.0,Grimsby Town
+18,60.0,Grimsby Town
+19,60.0,Grimsby Town
+20,60.0,Grimsby Town
+21,60.0,Grimsby Town
+23,60.0,Grimsby Town
+15,66.0,Ipswich Town
+16,67.0,Ipswich Town
+17,68.0,Ipswich Town
+18,68.0,Ipswich Town
+19,67.0,Ipswich Town
+20,66.0,Ipswich Town
+21,65.0,Ipswich Town
+22,65.0,Ipswich Town
+23,66.5,Ipswich Town
+15,69.0,Leicester City
+16,71.0,Leicester City
+17,74.0,Leicester City
+18,75.0,Leicester City
+19,75.0,Leicester City
+20,74.0,Leicester City
+21,76.0,Leicester City
+22,77.0,Leicester City
+23,76.0,Leicester City
+15,66.0,Millwall
+16,63.0,Millwall
+17,64.0,Millwall
+18,66.0,Millwall
+19,68.0,Millwall
+20,68.0,Millwall
+21,69.0,Millwall
+22,68.0,Millwall
+23,69.0,Millwall
+15,71.0,Sunderland
+16,73.0,Sunderland
+17,74.0,Sunderland
+18,69.0,Sunderland
+19,67.0,Sunderland
+20,67.0,Sunderland
+21,65.0,Sunderland
+22,65.0,Sunderland
+23,66.0,Sunderland
+15,72.0,West Bromwich Albion
+16,73.0,West Bromwich Albion
+17,69.0,West Bromwich Albion
+18,74.0,West Bromwich Albion
+19,71.0,West Bromwich Albion
+20,70.0,West Bromwich Albion
+21,72.0,West Bromwich Albion
+22,70.0,West Bromwich Albion
+23,70.0,West Bromwich Albion
+15,65.0,Wolverhampton Wanderers
+16,66.0,Wolverhampton Wanderers
+17,69.0,Wolverhampton Wanderers
+18,70.0,Wolverhampton Wanderers
+19,70.0,Wolverhampton Wanderers
+20,70.0,Wolverhampton Wanderers
+21,71.0,Wolverhampton Wanderers
+22,75.0,Wolverhampton Wanderers
+23,75.0,Wolverhampton Wanderers
+15,58.0,Crewe Alexandra
+16,58.0,Crewe Alexandra
+17,56.0,Crewe Alexandra
+18,57.0,Crewe Alexandra
+19,58.0,Crewe Alexandra
+20,59.0,Crewe Alexandra
+21,63.0,Crewe Alexandra
+22,62.0,Crewe Alexandra
+23,60.0,Crewe Alexandra
+15,60.0,Shrewsbury Town
+16,63.0,Shrewsbury Town
+17,62.0,Shrewsbury Town
+18,63.0,Shrewsbury Town
+19,63.0,Shrewsbury Town
+20,64.0,Shrewsbury Town
+21,63.0,Shrewsbury Town
+22,64.0,Shrewsbury Town
+23,65.0,Shrewsbury Town
+16,58.0,Barnet
+17,59.0,Barnet
+18,59.0,Barnet
+15,61.0,Doncaster Rovers
+16,63.0,Doncaster Rovers
+17,62.0,Doncaster Rovers
+18,63.0,Doncaster Rovers
+19,64.0,Doncaster Rovers
+20,63.0,Doncaster Rovers
+21,62.0,Doncaster Rovers
+22,63.0,Doncaster Rovers
+23,62.0,Doncaster Rovers
+15,57.0,Exeter City
+16,59.0,Exeter City
+17,62.0,Exeter City
+18,62.0,Exeter City
+19,62.0,Exeter City
+20,62.0,Exeter City
+21,61.0,Exeter City
+22,61.0,Exeter City
+23,63.0,Exeter City
+15,66.0,Fulham
+16,68.0,Fulham
+17,70.0,Fulham
+18,70.0,Fulham
+19,73.0,Fulham
+20,71.0,Fulham
+21,73.0,Fulham
+22,73.0,Fulham
+23,75.0,Fulham
+18,61.0,Lincoln City
+19,63.0,Lincoln City
+20,63.0,Lincoln City
+21,63.0,Lincoln City
+22,64.0,Lincoln City
+23,63.0,Lincoln City
+16,66.0,DSC Arminia Bielefeld
+17,67.0,DSC Arminia Bielefeld
+18,68.0,DSC Arminia Bielefeld
+19,67.0,DSC Arminia Bielefeld
+20,68.0,DSC Arminia Bielefeld
+21,70.0,DSC Arminia Bielefeld
+22,71.0,DSC Arminia Bielefeld
+23,69.0,DSC Arminia Bielefeld
+15,65.0,VfL Bochum 1848
+16,67.0,VfL Bochum 1848
+17,67.0,VfL Bochum 1848
+18,67.0,VfL Bochum 1848
+19,69.0,VfL Bochum 1848
+20,67.0,VfL Bochum 1848
+21,67.0,VfL Bochum 1848
+22,70.0,VfL Bochum 1848
+23,72.0,VfL Bochum 1848
+19,62.0,Energie Cottbus
+15,66.0,SpVgg Greuther Fürth
+16,67.0,SpVgg Greuther Fürth
+17,67.0,SpVgg Greuther Fürth
+18,67.0,SpVgg Greuther Fürth
+19,66.0,SpVgg Greuther Fürth
+20,66.0,SpVgg Greuther Fürth
+21,67.0,SpVgg Greuther Fürth
+22,68.0,SpVgg Greuther Fürth
+23,67.0,SpVgg Greuther Fürth
+15,73.0,Hertha BSC
+16,74.0,Hertha BSC
+17,76.0,Hertha BSC
+18,74.0,Hertha BSC
+19,73.0,Hertha BSC
+20,75.0,Hertha BSC
+21,74.0,Hertha BSC
+22,73.0,Hertha BSC
+23,72.0,Hertha BSC
+19,65.0,Uerdingen
+20,65.0,Uerdingen
+21,64.0,Uerdingen
+15,72.0,FSV Mainz 05
+16,73.0,FSV Mainz 05
+17,74.0,FSV Mainz 05
+18,74.0,FSV Mainz 05
+19,73.0,FSV Mainz 05
+20,73.0,FSV Mainz 05
+21,71.0,FSV Mainz 05
+22,71.0,FSV Mainz 05
+23,74.0,FSV Mainz 05
+15,66.0,Nürnberg
+16,67.0,Nürnberg
+17,69.0,Nürnberg
+18,68.0,Nürnberg
+19,70.0,Nürnberg
+20,70.0,Nürnberg
+21,68.0,Nürnberg
+22,68.0,Nürnberg
+23,68.0,Nürnberg
+18,62.0,Unterhaching
+19,64.0,Unterhaching
+20,65.0,Unterhaching
+21,63.0,Unterhaching
+15,75.0,VfL Wolfsburg
+16,76.0,VfL Wolfsburg
+17,76.0,VfL Wolfsburg
+18,75.0,VfL Wolfsburg
+19,75.0,VfL Wolfsburg
+20,76.0,VfL Wolfsburg
+21,75.0,VfL Wolfsburg
+22,76.0,VfL Wolfsburg
+23,75.0,VfL Wolfsburg
+15,59.0,Dundee
+16,57.0,Dundee
+17,61.0,Dundee
+18,61.0,Dundee
+19,63.0,Dundee
+22,63.0,Dundee
+15,60.0,Dundee United
+16,62.0,Dundee United
+21,63.0,Dundee United
+22,64.0,Dundee United
+23,65.0,Dundee United
+15,57.0,Hamilton Academical
+16,59.0,Hamilton Academical
+17,61.0,Hamilton Academical
+18,59.0,Hamilton Academical
+19,59.0,Hamilton Academical
+20,59.0,Hamilton Academical
+21,60.0,Hamilton Academical
+15,67.0,Bologna
+16,71.0,Bologna
+17,74.0,Bologna
+18,74.0,Bologna
+19,74.0,Bologna
+20,73.0,Bologna
+21,72.0,Bologna
+22,73.0,Bologna
+23,73.0,Bologna
+15,60.0,Brescia
+16,63.0,Brescia
+17,64.0,Brescia
+18,65.0,Brescia
+19,67.0,Brescia
+20,70.0,Brescia
+21,68.0,Brescia
+23,67.0,Brescia
+15,67.0,Salzburg
+16,67.5,Salzburg
+17,70.0,Salzburg
+18,68.0,Salzburg
+19,70.0,Salzburg
+20,72.0,Salzburg
+21,71.0,Salzburg
+22,71.0,Salzburg
+23,71.0,Salzburg
+15,71.0,Chievo
+16,73.0,Chievo
+17,74.0,Chievo
+18,73.0,Chievo
+19,72.5,Chievo
+20,66.0,Chievo
+21,68.0,Chievo
+15,63.0,Perugia
+16,67.0,Perugia
+17,64.0,Perugia
+18,66.0,Perugia
+19,68.0,Perugia
+20,68.0,Perugia
+23,66.0,Perugia
+15,64.0,Pescara
+16,65.0,Pescara
+17,69.0,Pescara
+18,67.0,Pescara
+19,66.0,Pescara
+20,66.0,Pescara
+23,67.0,Reggina
+18,64.0,Venezia
+19,66.0,Venezia
+20,66.0,Venezia
+22,69.0,Venezia
+23,69.0,Venezia
+15,71.0,Hellas Verona
+16,72.0,Hellas Verona
+17,69.0,Hellas Verona
+18,70.0,Hellas Verona
+19,69.0,Hellas Verona
+20,72.0,Hellas Verona
+21,72.0,Hellas Verona
+22,73.0,Hellas Verona
+23,72.0,Hellas Verona
+15,63.0,Sturm Graz
+16,64.0,Sturm Graz
+17,65.0,Sturm Graz
+18,66.0,Sturm Graz
+19,66.0,Sturm Graz
+20,68.0,Sturm Graz
+21,66.0,Sturm Graz
+22,66.0,Sturm Graz
+23,67.0,Sturm Graz
+15,67.0,Caen
+16,70.0,Caen
+17,71.0,Caen
+18,70.0,Caen
+19,70.0,Caen
+20,67.0,Caen
+21,67.0,Caen
+22,66.0,Caen
+23,66.0,Caen
+19,70.0,Dinamo Zagreb
+20,71.0,Dinamo Zagreb
+21,71.0,Dinamo Zagreb
+22,70.0,Dinamo Zagreb
+23,71.0,Dinamo Zagreb
+15,61.0,Châteauroux
+18,63.0,Châteauroux
+19,62.0,Châteauroux
+20,65.0,Châteauroux
+21,64.0,Châteauroux
+15,69.0,Lorient
+16,70.0,Lorient
+17,72.0,Lorient
+18,68.0,Lorient
+19,65.0,Lorient
+20,68.0,Lorient
+21,68.0,Lorient
+22,69.0,Lorient
+23,69.0,Lorient
+15,73.0,Olympique Marseille
+16,74.0,Olympique Marseille
+17,73.0,Olympique Marseille
+18,75.0,Olympique Marseille
+19,75.0,Olympique Marseille
+20,75.0,Olympique Marseille
+21,72.0,Olympique Marseille
+22,75.0,Olympique Marseille
+23,75.0,Olympique Marseille
+15,62.0,Nîmes
+16,63.0,Nîmes
+17,65.0,Nîmes
+18,65.0,Nîmes
+19,69.0,Nîmes
+20,68.0,Nîmes
+21,69.0,Nîmes
+22,67.0,Nîmes
+23,66.0,Nîmes
+15,64.0,Sochaux
+16,65.0,Sochaux
+17,66.0,Sochaux
+18,64.0,Sochaux
+19,64.0,Sochaux
+20,65.0,Sochaux
+21,65.0,Sochaux
+22,65.0,Sochaux
+23,66.0,Sochaux
+15,70.0,Anderlecht
+16,73.0,Anderlecht
+17,72.0,Anderlecht
+18,73.0,Anderlecht
+19,71.0,Anderlecht
+20,72.0,Anderlecht
+21,71.0,Anderlecht
+22,70.0,Anderlecht
+23,69.0,Anderlecht
+18,68.0,Antwerp
+19,71.0,Antwerp
+20,71.0,Antwerp
+21,71.0,Antwerp
+22,71.0,Antwerp
+23,71.0,Antwerp
+15,71.0,Club Brugge
+16,72.0,Club Brugge
+17,73.0,Club Brugge
+18,73.0,Club Brugge
+19,73.0,Club Brugge
+20,74.0,Club Brugge
+21,72.0,Club Brugge
+22,72.0,Club Brugge
+23,73.0,Club Brugge
+15,69.0,Standard Liège
+16,69.0,Standard Liège
+17,71.0,Standard Liège
+18,71.0,Standard Liège
+19,72.0,Standard Liège
+20,71.0,Standard Liège
+21,70.0,Standard Liège
+22,69.0,Standard Liège
+23,67.0,Standard Liège
+15,75.0,Benfica
+16,76.0,Benfica
+17,78.0,Benfica
+18,76.0,Benfica
+19,77.0,Benfica
+20,77.0,Benfica
+21,77.0,Benfica
+22,77.0,Benfica
+23,76.0,Benfica
+15,76.0,Porto
+16,76.0,Porto
+17,76.0,Porto
+18,77.0,Porto
+19,77.0,Porto
+20,78.0,Porto
+21,75.0,Porto
+22,75.0,Porto
+23,75.0,Porto
+15,73.0,Sporting CP
+16,76.0,Sporting CP
+17,76.0,Sporting CP
+18,76.0,Sporting CP
+19,76.0,Sporting CP
+20,75.0,Sporting CP
+21,75.0,Sporting CP
+22,77.0,Sporting CP
+23,76.0,Sporting CP
+15,63.0,Lierse
+15,77.0,Atlético Madrid
+16,79.0,Atlético Madrid
+17,81.0,Atlético Madrid
+18,80.0,Atlético Madrid
+19,81.0,Atlético Madrid
+20,80.0,Atlético Madrid
+21,81.0,Atlético Madrid
+22,80.0,Atlético Madrid
+23,80.0,Atlético Madrid
+15,82.0,FC Barcelona
+16,79.0,FC Barcelona
+17,80.0,FC Barcelona
+18,82.0,FC Barcelona
+19,82.0,FC Barcelona
+20,82.0,FC Barcelona
+21,76.5,FC Barcelona
+22,79.0,FC Barcelona
+23,79.0,FC Barcelona
+15,71.0,Deportivo La Coruña
+16,74.0,Deportivo La Coruña
+17,75.0,Deportivo La Coruña
+18,74.0,Deportivo La Coruña
+19,71.0,Deportivo La Coruña
+20,70.0,Deportivo La Coruña
+15,79.0,Real Madrid
+16,78.0,Real Madrid
+17,81.0,Real Madrid
+18,82.0,Real Madrid
+19,80.0,Real Madrid
+20,82.0,Real Madrid
+21,80.0,Real Madrid
+22,81.0,Real Madrid
+23,81.0,Real Madrid
+15,66.0,Real Zaragoza
+16,69.0,Real Zaragoza
+17,68.0,Real Zaragoza
+18,67.0,Real Zaragoza
+19,69.0,Real Zaragoza
+20,68.0,Real Zaragoza
+21,67.0,Real Zaragoza
+22,68.0,Real Zaragoza
+23,68.0,Real Zaragoza
+15,72.0,Ajax
+16,74.0,Ajax
+17,73.0,Ajax
+18,75.0,Ajax
+19,75.0,Ajax
+20,75.0,Ajax
+21,75.0,Ajax
+22,76.0,Ajax
+23,75.0,Ajax
+15,71.0,Feyenoord
+16,73.0,Feyenoord
+17,73.0,Feyenoord
+18,73.0,Feyenoord
+19,73.0,Feyenoord
+20,73.0,Feyenoord
+21,73.0,Feyenoord
+22,72.0,Feyenoord
+23,72.0,Feyenoord
+15,72.0,PSV
+16,74.0,PSV
+17,74.0,PSV
+18,74.0,PSV
+19,74.0,PSV
+20,74.0,PSV
+21,74.0,PSV
+22,74.0,PSV
+23,75.0,PSV
+18,63.0,LASK Linz
+19,65.0,LASK Linz
+20,68.0,LASK Linz
+21,69.0,LASK Linz
+22,68.0,LASK Linz
+23,67.0,LASK Linz
+15,64.0,Rapid Vienna
+16,66.0,Rapid Vienna
+17,67.0,Rapid Vienna
+18,67.0,Rapid Vienna
+19,67.0,Rapid Vienna
+20,68.0,Rapid Vienna
+21,68.0,Rapid Vienna
+22,66.0,Rapid Vienna
+23,67.0,Rapid Vienna
+15,64.0,Austria Wien
+16,64.0,Austria Wien
+17,65.0,Austria Wien
+18,66.0,Austria Wien
+19,67.0,Austria Wien
+20,66.0,Austria Wien
+21,66.0,Austria Wien
+22,64.0,Austria Wien
+23,66.0,Austria Wien
+15,64.0,Tenerife
+16,66.0,Tenerife
+17,68.0,Tenerife
+18,69.0,Tenerife
+19,69.0,Tenerife
+20,68.0,Tenerife
+21,68.0,Tenerife
+22,69.0,Tenerife
+23,68.0,Tenerife
+22,69.0,Hajduk Split
+23,69.0,Hajduk Split
+19,71.0,Slavia Praha
+20,73.0,Slavia Praha
+21,73.0,Slavia Praha
+22,74.0,Slavia Praha
+23,73.0,Slavia Praha
+18,71.0,Sparta Praha
+19,69.0,Sparta Praha
+20,72.0,Sparta Praha
+21,72.0,Sparta Praha
+22,73.0,Sparta Praha
+23,72.0,Sparta Praha
+15,65.0,Brøndby
+16,64.0,Brøndby
+17,66.0,Brøndby
+18,67.0,Brøndby
+19,67.0,Brøndby
+20,66.0,Brøndby
+21,66.0,Brøndby
+22,65.0,Brøndby
+23,66.0,Brøndby
+15,56.0,Silkeborg
+17,58.0,Silkeborg
+18,63.0,Silkeborg
+20,61.0,Silkeborg
+22,62.0,Silkeborg
+23,65.0,Silkeborg
+16,64.0,AGF
+17,65.0,AGF
+18,64.0,AGF
+19,64.0,AGF
+20,65.0,AGF
+21,66.0,AGF
+22,66.0,AGF
+23,65.0,AGF
+15,60.0,OB
+16,62.0,OB
+17,62.0,OB
+18,63.0,OB
+19,65.0,OB
+20,65.0,OB
+21,64.0,OB
+22,63.0,OB
+23,63.0,OB
+18,72.0,AEK Athens
+19,72.0,AEK Athens
+20,71.0,AEK Athens
+21,71.0,AEK Athens
+22,71.0,AEK Athens
+23,72.0,AEK Athens
+15,70.0,Olympiakos Piraeus
+16,74.0,Olympiakos Piraeus
+17,74.0,Olympiakos Piraeus
+18,74.0,Olympiakos Piraeus
+19,73.0,Olympiakos Piraeus
+20,73.0,Olympiakos Piraeus
+21,73.0,Olympiakos Piraeus
+22,74.0,Olympiakos Piraeus
+15,57.0,Vaduz
+16,59.0,Vaduz
+17,59.0,Vaduz
+21,61.0,Vaduz
+15,65.0,Troyes
+16,67.0,Troyes
+17,65.0,Troyes
+18,68.0,Troyes
+19,68.0,Troyes
+20,65.0,Troyes
+21,65.0,Troyes
+22,70.0,Troyes
+23,69.0,Troyes
+15,65.0,Rosenborg
+16,68.0,Rosenborg
+17,68.0,Rosenborg
+18,68.0,Rosenborg
+19,69.0,Rosenborg
+20,67.0,Rosenborg
+21,67.0,Rosenborg
+22,66.0,Rosenborg
+23,65.5,Rosenborg
+15,60.0,Lillestrøm
+16,62.0,Lillestrøm
+17,61.0,Lillestrøm
+18,62.0,Lillestrøm
+19,63.0,Lillestrøm
+20,63.0,Lillestrøm
+22,63.0,Lillestrøm
+23,65.0,Lillestrøm
+15,65.0,Viking
+16,64.0,Viking
+17,63.0,Viking
+18,63.0,Viking
+20,64.0,Viking
+21,64.0,Viking
+22,64.0,Viking
+23,65.0,Viking
+23,63.0,Widzew Lodz
+15,54.0,Bohemians
+16,56.0,Bohemians
+17,56.0,Bohemians
+18,58.0,Bohemians
+19,55.0,Bohemians
+20,59.0,Bohemians
+21,59.0,Bohemians
+22,59.0,Bohemians
+23,59.0,Bohemians
+15,58.0,Shamrock Rovers
+16,58.0,Shamrock Rovers
+17,58.0,Shamrock Rovers
+18,59.0,Shamrock Rovers
+19,61.0,Shamrock Rovers
+20,62.0,Shamrock Rovers
+21,62.0,Shamrock Rovers
+22,63.0,Shamrock Rovers
+23,62.0,Shamrock Rovers
+20,67.0,Universitatea Craiova
+21,66.0,Universitatea Craiova
+22,67.0,Universitatea Craiova
+23,67.0,Universitatea Craiova
+22,63.0,Rapid Bucuresti
+23,66.0,Rapid Bucuresti
+15,72.0,Dinamo Moskva
+16,67.0,Dinamo Moskva
+18,70.0,Dinamo Moskva
+15,71.0,CSKA Moskva
+16,75.0,CSKA Moskva
+17,75.0,CSKA Moskva
+18,75.0,CSKA Moskva
+19,69.0,CSKA Moskva
+20,71.0,CSKA Moskva
+21,72.0,CSKA Moskva
+22,72.0,CSKA Moskva
+15,64.0,IFK Göteborg
+16,66.0,IFK Göteborg
+17,66.0,IFK Göteborg
+18,64.0,IFK Göteborg
+19,62.0,IFK Göteborg
+20,65.0,IFK Göteborg
+21,66.0,IFK Göteborg
+22,65.0,IFK Göteborg
+23,63.0,IFK Göteborg
+15,64.0,Malmö FF
+16,67.0,Malmö FF
+17,66.0,Malmö FF
+18,67.0,Malmö FF
+19,69.0,Malmö FF
+20,68.0,Malmö FF
+21,67.0,Malmö FF
+22,68.0,Malmö FF
+23,68.0,Malmö FF
+15,60.0,Halmstad
+16,61.0,Halmstad
+18,59.0,Halmstad
+22,61.0,Halmstad
+15,64.0,Grasshopper
+16,61.0,Grasshopper
+17,63.0,Grasshopper
+18,64.0,Grasshopper
+19,64.0,Grasshopper
+22,66.0,Grasshopper
+23,65.0,Grasshopper
+20,63.0,Servette
+21,63.0,Servette
+22,64.0,Servette
+23,64.0,Servette
+15,74.0,Galatasaray
+16,73.0,Galatasaray
+17,74.0,Galatasaray
+18,74.0,Galatasaray
+19,74.0,Galatasaray
+20,74.0,Galatasaray
+21,73.0,Galatasaray
+22,72.0,Galatasaray
+23,74.0,Galatasaray
+15,75.0,Fenerbahçe
+16,76.0,Fenerbahçe
+17,75.0,Fenerbahçe
+18,75.0,Fenerbahçe
+19,74.0,Fenerbahçe
+20,74.0,Fenerbahçe
+21,73.0,Fenerbahçe
+22,74.0,Fenerbahçe
+23,74.0,Fenerbahçe
+15,74.0,Beşiktaş
+16,75.0,Beşiktaş
+17,76.0,Beşiktaş
+18,77.0,Beşiktaş
+19,76.0,Beşiktaş
+20,74.0,Beşiktaş
+21,73.0,Beşiktaş
+22,71.0,Beşiktaş
+23,72.0,Beşiktaş
+15,61.0,Yeovil Town
+16,59.0,Yeovil Town
+17,60.0,Yeovil Town
+18,60.0,Yeovil Town
+19,61.0,Yeovil Town
+19,66.0,Lecce
+20,71.0,Lecce
+21,68.0,Lecce
+22,67.0,Lecce
+23,68.0,Lecce
+15,56.0,Morecambe
+16,58.0,Morecambe
+17,58.0,Morecambe
+18,59.0,Morecambe
+19,57.0,Morecambe
+20,59.0,Morecambe
+21,61.0,Morecambe
+22,63.0,Morecambe
+23,62.0,Morecambe
+15,58.0,Stevenage
+16,58.0,Stevenage
+17,59.0,Stevenage
+18,58.0,Stevenage
+19,59.0,Stevenage
+20,62.0,Stevenage
+21,60.0,Stevenage
+22,61.0,Stevenage
+23,62.0,Stevenage
+15,58.0,Dagenham & Redbridge
+16,59.0,Dagenham & Redbridge
+15,65.0,Brest
+16,66.0,Brest
+17,68.0,Brest
+18,67.0,Brest
+19,67.0,Brest
+20,71.0,Brest
+21,71.0,Brest
+22,72.0,Brest
+23,72.0,Brest
+15,69.0,Reims
+16,70.0,Reims
+17,67.0,Reims
+18,67.0,Reims
+19,69.0,Reims
+20,71.0,Reims
+21,69.0,Reims
+22,71.0,Reims
+23,71.0,Reims
+21,60.0,Barrow
+22,61.0,Barrow
+23,61.0,Barrow
+16,74.0,Palmeiras
+17,69.5,Palmeiras
+18,72.5,Palmeiras
+21,74.0,Palmeiras
+22,74.0,Palmeiras
+23,75.5,Palmeiras
+15,70.0,PAOK
+16,71.0,PAOK
+17,72.0,PAOK
+18,73.0,PAOK
+19,74.0,PAOK
+20,73.0,PAOK
+21,72.0,PAOK
+22,72.0,PAOK
+23,70.0,PAOK
+15,66.0,Molde
+16,66.0,Molde
+17,65.0,Molde
+18,65.0,Molde
+19,67.0,Molde
+20,67.0,Molde
+21,67.0,Molde
+22,65.0,Molde
+23,66.0,Molde
+16,61.0,Tromsø
+17,62.0,Tromsø
+18,63.0,Tromsø
+19,63.0,Tromsø
+20,63.0,Tromsø
+22,61.0,Tromsø
+23,62.0,Tromsø
+15,63.0,Górnik Zabrze
+16,63.0,Górnik Zabrze
+18,62.0,Górnik Zabrze
+19,62.0,Górnik Zabrze
+20,63.0,Górnik Zabrze
+21,63.0,Górnik Zabrze
+22,63.0,Górnik Zabrze
+23,63.0,Górnik Zabrze
+15,57.0,Cork City
+16,57.0,Cork City
+17,59.0,Cork City
+18,59.0,Cork City
+19,60.0,Cork City
+20,54.0,Cork City
+21,53.0,Cork City
+15,57.0,St Patrick's
+16,57.0,St Patrick's
+17,58.0,St Patrick's
+18,59.0,St Patrick's
+19,59.0,St Patrick's
+20,60.0,St Patrick's
+21,60.0,St Patrick's
+22,60.0,St Patrick's
+23,60.0,St Patrick's
+15,61.0,Helsingborg
+16,63.0,Helsingborg
+17,64.0,Helsingborg
+20,62.0,Helsingborg
+21,62.0,Helsingborg
+23,61.0,Helsingborg
+15,63.0,AIK
+16,64.0,AIK
+17,66.0,AIK
+18,66.0,AIK
+19,66.0,AIK
+20,66.0,AIK
+21,65.0,AIK
+22,66.0,AIK
+23,66.0,AIK
+15,61.0,Aarau
+19,61.0,Neuchâtel Xamax
+20,61.0,Neuchâtel Xamax
+15,71.0,Trabzonspor
+16,72.0,Trabzonspor
+17,73.0,Trabzonspor
+18,73.0,Trabzonspor
+19,69.0,Trabzonspor
+20,69.0,Trabzonspor
+21,69.0,Trabzonspor
+22,72.0,Trabzonspor
+23,74.0,Trabzonspor
+15,53.0,Derry City
+16,54.0,Derry City
+17,56.0,Derry City
+18,56.0,Derry City
+19,56.0,Derry City
+20,58.0,Derry City
+21,55.0,Derry City
+22,59.0,Derry City
+23,59.0,Derry City
+15,74.0,Athletic Club
+16,78.0,Athletic Club
+17,77.0,Athletic Club
+18,76.0,Athletic Club
+19,76.0,Athletic Club
+20,77.0,Athletic Club
+21,75.0,Athletic Club
+22,75.0,Athletic Club
+23,75.0,Athletic Club
+15,68.0,Real Betis
+16,73.0,Real Betis
+17,75.0,Real Betis
+18,73.0,Real Betis
+19,78.0,Real Betis
+20,76.0,Real Betis
+21,76.0,Real Betis
+22,76.0,Real Betis
+23,76.0,Real Betis
+15,69.0,Celta de Vigo
+16,71.0,Celta de Vigo
+17,75.0,Celta de Vigo
+18,74.0,Celta de Vigo
+19,75.0,Celta de Vigo
+20,73.0,Celta de Vigo
+21,72.0,Celta de Vigo
+22,73.0,Celta de Vigo
+23,73.0,Celta de Vigo
+15,69.0,Espanyol
+16,72.0,Espanyol
+17,76.0,Espanyol
+18,76.0,Espanyol
+19,75.0,Espanyol
+20,75.0,Espanyol
+21,73.0,Espanyol
+22,75.0,Espanyol
+23,73.0,Espanyol
+15,65.0,Mallorca
+16,66.0,Mallorca
+17,67.0,Mallorca
+19,66.0,Mallorca
+20,72.0,Mallorca
+21,70.0,Mallorca
+22,73.0,Mallorca
+23,72.0,Mallorca
+15,63.0,Racing Santander
+20,66.0,Racing Santander
+23,66.0,Racing Santander
+15,74.0,Real Sociedad
+16,75.0,Real Sociedad
+17,75.0,Real Sociedad
+18,76.0,Real Sociedad
+19,75.0,Real Sociedad
+20,75.0,Real Sociedad
+21,75.0,Real Sociedad
+22,78.0,Real Sociedad
+23,74.0,Real Sociedad
+15,65.0,Sporting Gijón
+16,71.0,Sporting Gijón
+17,72.0,Sporting Gijón
+18,71.0,Sporting Gijón
+19,69.0,Sporting Gijón
+20,69.0,Sporting Gijón
+21,68.0,Sporting Gijón
+22,68.0,Sporting Gijón
+23,66.0,Sporting Gijón
+15,74.0,Valencia
+16,78.0,Valencia
+17,76.0,Valencia
+18,76.0,Valencia
+19,77.0,Valencia
+20,77.0,Valencia
+21,74.0,Valencia
+22,74.0,Valencia
+23,73.0,Valencia
+15,69.0,Real Valladolid
+16,71.0,Real Valladolid
+17,69.0,Real Valladolid
+18,70.0,Real Valladolid
+19,71.0,Real Valladolid
+20,73.0,Real Valladolid
+21,73.0,Real Valladolid
+22,73.0,Real Valladolid
+23,73.0,Real Valladolid
+15,64.0,Deportivo Alavés
+16,66.0,Deportivo Alavés
+17,74.0,Deportivo Alavés
+18,74.0,Deportivo Alavés
+19,75.0,Deportivo Alavés
+20,74.0,Deportivo Alavés
+21,73.0,Deportivo Alavés
+22,72.0,Deportivo Alavés
+23,69.0,Deportivo Alavés
+15,71.0,SD Eibar
+16,72.0,SD Eibar
+17,75.0,SD Eibar
+18,75.0,SD Eibar
+19,75.0,SD Eibar
+20,76.0,SD Eibar
+21,73.0,SD Eibar
+22,71.0,SD Eibar
+23,70.0,SD Eibar
+15,70.0,Elche
+16,66.0,Elche
+17,68.0,Elche
+19,67.0,Elche
+20,67.0,Elche
+21,70.0,Elche
+22,73.0,Elche
+23,73.0,Elche
+19,66.0,Extremadura UD
+20,66.0,Extremadura UD
+15,66.0,Las Palmas
+16,71.0,Las Palmas
+17,73.0,Las Palmas
+18,74.0,Las Palmas
+19,71.0,Las Palmas
+20,68.0,Las Palmas
+21,68.0,Las Palmas
+22,68.0,Las Palmas
+23,69.0,Las Palmas
+21,66.0,UD Logroñés
+15,64.0,Numancia
+16,66.0,Numancia
+17,68.0,Numancia
+18,68.0,Numancia
+19,68.0,Numancia
+20,67.0,Numancia
+15,67.0,Osasuna
+16,65.0,Osasuna
+17,72.0,Osasuna
+18,72.0,Osasuna
+19,70.0,Osasuna
+20,73.0,Osasuna
+21,74.0,Osasuna
+22,74.0,Osasuna
+23,74.0,Osasuna
+15,71.0,Rayo Vallecano
+16,73.0,Rayo Vallecano
+17,71.0,Rayo Vallecano
+18,71.0,Rayo Vallecano
+19,73.0,Rayo Vallecano
+20,70.0,Rayo Vallecano
+21,69.0,Rayo Vallecano
+22,72.0,Rayo Vallecano
+23,74.0,Rayo Vallecano
+15,76.0,Sevilla
+16,77.0,Sevilla
+17,79.0,Sevilla
+18,79.0,Sevilla
+19,77.0,Sevilla
+20,78.0,Sevilla
+21,79.0,Sevilla
+22,79.0,Sevilla
+23,79.0,Sevilla
+15,72.0,Villarreal
+16,77.0,Villarreal
+17,77.0,Villarreal
+18,76.0,Villarreal
+19,76.0,Villarreal
+20,75.0,Villarreal
+21,77.0,Villarreal
+22,78.0,Villarreal
+23,79.0,Villarreal
+15,72.0,Hannover 96
+16,72.0,Hannover 96
+17,70.0,Hannover 96
+18,72.0,Hannover 96
+19,73.0,Hannover 96
+20,71.0,Hannover 96
+21,69.0,Hannover 96
+22,68.0,Hannover 96
+23,68.0,Hannover 96
+18,64.0,Osnabrück
+19,64.0,Osnabrück
+20,67.0,Osnabrück
+21,66.0,Osnabrück
+22,63.0,Osnabrück
+23,63.0,Osnabrück
+21,68.0,Farense
+18,64.0,Wehen Wiesbaden
+19,65.0,Wehen Wiesbaden
+20,66.0,Wehen Wiesbaden
+21,65.0,Wehen Wiesbaden
+22,64.0,Wehen Wiesbaden
+23,64.0,Wehen Wiesbaden
+17,67.0,Dynamo Dresden
+18,68.0,Dynamo Dresden
+19,68.0,Dynamo Dresden
+20,68.0,Dynamo Dresden
+21,65.0,Dynamo Dresden
+22,66.0,Dynamo Dresden
+23,65.0,Dynamo Dresden
+15,64.0,Erzgebirge Aue
+17,66.0,Erzgebirge Aue
+18,67.0,Erzgebirge Aue
+19,67.0,Erzgebirge Aue
+20,67.0,Erzgebirge Aue
+21,67.0,Erzgebirge Aue
+22,66.0,Erzgebirge Aue
+23,64.0,Erzgebirge Aue
+18,63.0,Chemnitzer FC
+20,62.0,Chemnitzer FC
+17,71.0,Botafogo
+18,72.0,Botafogo
+19,71.5,Botafogo
+20,71.5,Botafogo
+21,69.0,Botafogo
+17,69.0,Chaves
+18,70.0,Chaves
+19,70.0,Chaves
+23,67.0,Chaves
+21,63.0,Saarbrücken
+22,64.0,Saarbrücken
+23,65.0,Saarbrücken
+23,63.0,Rot-Weiss Essen
+18,64.0,Preußen Münster
+19,63.0,Preußen Münster
+20,63.0,Preußen Münster
+18,65.0,Jahn Regensburg
+19,67.0,Jahn Regensburg
+20,66.0,Jahn Regensburg
+21,65.0,Jahn Regensburg
+22,67.0,Jahn Regensburg
+23,67.0,Jahn Regensburg
+15,63.0,Aalen
+18,65.0,Aalen
+19,63.0,Aalen
+18,60.0,Forest Green Rovers
+19,62.0,Forest Green Rovers
+20,63.0,Forest Green Rovers
+21,60.0,Forest Green Rovers
+22,62.0,Forest Green Rovers
+23,62.0,Forest Green Rovers
+15,56.0,Sligo Rovers
+16,55.0,Sligo Rovers
+17,56.0,Sligo Rovers
+18,57.0,Sligo Rovers
+19,57.0,Sligo Rovers
+20,57.0,Sligo Rovers
+21,57.0,Sligo Rovers
+22,59.0,Sligo Rovers
+23,58.0,Sligo Rovers
+16,70.0,Fluminense
+17,69.5,Fluminense
+18,71.5,Fluminense
+19,72.0,Fluminense
+20,72.0,Fluminense
+21,71.5,Fluminense
+22,71.5,Fluminense
+23,71.5,Fluminense
+16,71.0,Cruzeiro
+17,68.5,Cruzeiro
+18,72.5,Cruzeiro
+19,71.5,Cruzeiro
+20,71.5,Cruzeiro
+16,68.0,Vasco da Gama
+17,66.5,Vasco da Gama
+21,70.0,Vasco da Gama
+15,64.0,Ternana
+16,64.0,Ternana
+17,66.0,Ternana
+18,63.0,Ternana
+23,66.0,Ternana
+15,63.0,Recreativo Huelva
+15,72.0,Málaga
+16,74.0,Málaga
+17,75.0,Málaga
+18,74.0,Málaga
+19,71.0,Málaga
+20,69.0,Málaga
+21,67.0,Málaga
+22,69.0,Málaga
+23,67.0,Málaga
+18,66.0,Holstein Kiel
+19,67.0,Holstein Kiel
+20,66.0,Holstein Kiel
+21,67.0,Holstein Kiel
+22,67.0,Holstein Kiel
+23,67.0,Holstein Kiel
+23,62.0,Elversberg
+16,72.0,São Paulo
+17,69.0,São Paulo
+18,70.0,São Paulo
+21,75.0,São Paulo
+22,73.0,São Paulo
+23,72.5,São Paulo
+15,65.0,Al Hilal
+16,68.0,Al Hilal
+17,68.0,Al Hilal
+18,70.0,Al Hilal
+19,70.0,Al Hilal
+20,71.0,Al Hilal
+21,67.0,Al Hilal
+22,69.0,Al Hilal
+23,69.0,Al Hilal
+15,63.0,Al Ittihad
+16,66.0,Al Ittihad
+17,65.0,Al Ittihad
+18,63.0,Al Ittihad
+19,66.0,Al Ittihad
+20,64.0,Al Ittihad
+21,65.0,Al Ittihad
+22,65.0,Al Ittihad
+23,64.5,Al Ittihad
+15,62.0,Ajaccio
+16,63.0,Ajaccio
+17,64.0,Ajaccio
+18,65.0,Ajaccio
+19,66.0,Ajaccio
+20,62.0,Ajaccio
+21,65.0,Ajaccio
+22,66.0,Ajaccio
+23,69.0,Ajaccio
+15,61.0,Inverness CT
+16,60.0,Inverness CT
+17,62.0,Inverness CT
+19,62.0,Livingston
+20,63.0,Livingston
+21,64.0,Livingston
+22,63.0,Livingston
+23,63.0,Livingston
+15,61.0,Ross County
+16,62.0,Ross County
+17,64.0,Ross County
+18,64.0,Ross County
+20,63.0,Ross County
+21,62.0,Ross County
+22,63.0,Ross County
+23,63.0,Ross County
+19,66.0,Fortuna Sittard
+20,64.0,Fortuna Sittard
+21,65.0,Fortuna Sittard
+22,67.0,Fortuna Sittard
+23,66.0,Fortuna Sittard
+16,65.0,De Graafschap
+19,66.0,De Graafschap
+23,63.0,FC Volendam
+15,64.0,SC Cambuur
+16,65.0,SC Cambuur
+22,65.0,SC Cambuur
+23,65.0,SC Cambuur
+15,66.0,ADO Den Haag
+16,68.0,ADO Den Haag
+17,67.0,ADO Den Haag
+18,66.0,ADO Den Haag
+19,66.0,ADO Den Haag
+20,66.0,ADO Den Haag
+21,64.0,ADO Den Haag
+15,66.0,Vitória FC
+16,68.0,Vitória FC
+17,70.0,Vitória FC
+18,69.0,Vitória FC
+19,68.0,Vitória FC
+20,68.0,Vitória FC
+18,71.0,Desportivo Aves
+19,68.0,Desportivo Aves
+20,66.0,Desportivo Aves
+15,64.0,Sporting Charleroi
+16,68.0,Sporting Charleroi
+17,69.0,Sporting Charleroi
+18,69.0,Sporting Charleroi
+19,70.0,Sporting Charleroi
+20,69.0,Sporting Charleroi
+21,70.0,Sporting Charleroi
+22,67.0,Sporting Charleroi
+23,67.0,Sporting Charleroi
+15,69.0,Genk
+16,69.0,Genk
+17,72.0,Genk
+18,71.0,Genk
+19,71.0,Genk
+20,71.0,Genk
+21,72.0,Genk
+22,71.0,Genk
+23,69.0,Genk
+15,68.0,Gent
+16,71.0,Gent
+17,73.0,Gent
+18,72.0,Gent
+19,71.0,Gent
+20,72.0,Gent
+21,71.0,Gent
+22,71.0,Gent
+23,72.0,Gent
+21,67.0,Beerschot
+22,67.0,Beerschot
+16,65.0,Sint-Truiden
+17,67.0,Sint-Truiden
+18,67.0,Sint-Truiden
+19,68.0,Sint-Truiden
+20,67.0,Sint-Truiden
+21,67.0,Sint-Truiden
+22,67.0,Sint-Truiden
+23,67.0,Sint-Truiden
+15,64.0,Westerlo
+16,65.0,Westerlo
+17,66.0,Westerlo
+23,66.0,Westerlo
+15,64.0,KV Oostende
+16,68.0,KV Oostende
+17,70.0,KV Oostende
+18,70.0,KV Oostende
+19,68.0,KV Oostende
+20,68.0,KV Oostende
+21,67.0,KV Oostende
+22,67.0,KV Oostende
+23,66.0,KV Oostende
+15,64.0,Columbus Crew
+16,66.0,Columbus Crew
+17,67.0,Columbus Crew
+18,68.0,Columbus Crew
+19,67.0,Columbus Crew
+20,67.0,Columbus Crew
+21,67.0,Columbus Crew
+22,68.0,Columbus Crew
+23,66.0,Columbus Crew
+15,64.0,DC United
+16,66.0,DC United
+17,67.0,DC United
+18,66.0,DC United
+19,67.0,DC United
+20,68.0,DC United
+21,68.0,DC United
+22,67.0,DC United
+23,67.0,DC United
+15,62.0,New York RB
+16,66.0,New York RB
+17,66.0,New York RB
+18,66.0,New York RB
+19,67.0,New York RB
+20,67.0,New York RB
+21,66.0,New York RB
+22,66.0,New York RB
+23,65.0,New York RB
+15,64.0,New England
+16,66.0,New England
+17,67.0,New England
+18,67.0,New England
+19,68.0,New England
+20,67.0,New England
+21,66.0,New England
+22,67.0,New England
+23,66.0,New England
+15,63.0,Chicago Fire
+16,65.0,Chicago Fire
+17,66.0,Chicago Fire
+18,65.0,Chicago Fire
+19,65.0,Chicago Fire
+20,66.0,Chicago Fire
+21,65.0,Chicago Fire
+22,65.0,Chicago Fire
+23,63.0,Chicago Fire
+15,63.0,Colorado Rapids
+16,65.0,Colorado Rapids
+17,66.0,Colorado Rapids
+18,66.0,Colorado Rapids
+19,66.0,Colorado Rapids
+20,66.0,Colorado Rapids
+21,67.0,Colorado Rapids
+22,65.0,Colorado Rapids
+23,65.0,Colorado Rapids
+15,63.0,Dallas
+16,66.0,Dallas
+17,68.0,Dallas
+18,67.0,Dallas
+19,67.0,Dallas
+20,67.0,Dallas
+21,64.0,Dallas
+22,66.0,Dallas
+23,65.0,Dallas
+15,64.0,Sporting KC
+16,67.0,Sporting KC
+17,67.0,Sporting KC
+18,67.0,Sporting KC
+19,69.0,Sporting KC
+20,69.0,Sporting KC
+21,67.0,Sporting KC
+22,66.0,Sporting KC
+23,65.0,Sporting KC
+15,64.0,LA Galaxy
+16,66.0,LA Galaxy
+17,67.0,LA Galaxy
+18,67.0,LA Galaxy
+19,67.0,LA Galaxy
+20,67.0,LA Galaxy
+21,64.0,LA Galaxy
+22,66.0,LA Galaxy
+23,66.0,LA Galaxy
+15,64.0,Houston Dynamo
+16,67.0,Houston Dynamo
+17,67.0,Houston Dynamo
+18,67.0,Houston Dynamo
+19,67.0,Houston Dynamo
+20,66.0,Houston Dynamo
+21,66.0,Houston Dynamo
+22,66.0,Houston Dynamo
+23,66.0,Houston Dynamo
+15,62.0,Elfsborg
+16,65.0,Elfsborg
+17,65.0,Elfsborg
+18,65.0,Elfsborg
+19,64.0,Elfsborg
+20,64.0,Elfsborg
+21,65.0,Elfsborg
+22,63.0,Elfsborg
+23,63.5,Elfsborg
+15,60.0,Norrköping
+16,62.0,Norrköping
+17,64.0,Norrköping
+18,64.0,Norrköping
+19,67.0,Norrköping
+20,65.0,Norrköping
+21,64.0,Norrköping
+22,64.0,Norrköping
+23,64.0,Norrköping
+19,60.0,Trelleborg
+15,60.0,Örebro
+16,62.0,Örebro
+17,63.0,Örebro
+18,63.0,Örebro
+19,62.0,Örebro
+20,62.0,Örebro
+21,62.0,Örebro
+22,62.0,Örebro
+16,63.0,Hammarby
+17,64.0,Hammarby
+18,65.0,Hammarby
+19,65.0,Hammarby
+20,67.0,Hammarby
+21,66.0,Hammarby
+22,66.0,Hammarby
+23,66.0,Hammarby
+15,62.0,Djurgården
+16,63.0,Djurgården
+17,64.0,Djurgården
+18,63.0,Djurgården
+19,64.0,Djurgården
+20,67.0,Djurgården
+21,65.0,Djurgården
+22,65.0,Djurgården
+23,66.0,Djurgården
+15,61.0,Häcken
+16,64.0,Häcken
+17,65.0,Häcken
+18,65.0,Häcken
+19,65.0,Häcken
+20,63.0,Häcken
+21,65.0,Häcken
+22,64.0,Häcken
+23,64.5,Häcken
+16,68.0,Antalyaspor
+17,68.0,Antalyaspor
+18,68.0,Antalyaspor
+19,67.0,Antalyaspor
+20,68.0,Antalyaspor
+21,68.0,Antalyaspor
+22,69.0,Antalyaspor
+23,69.0,Antalyaspor
+15,69.0,Bursaspor
+16,70.0,Bursaspor
+17,71.0,Bursaspor
+18,70.0,Bursaspor
+19,68.0,Bursaspor
+15,67.0,Rio Ave
+16,70.0,Rio Ave
+17,70.0,Rio Ave
+18,70.0,Rio Ave
+19,69.0,Rio Ave
+20,71.0,Rio Ave
+21,70.0,Rio Ave
+23,68.0,Rio Ave
+23,62.0,İstanbulspor
+19,65.0,BB Erzurumspor
+21,66.0,BB Erzurumspor
+19,58.0,Waterford United
+20,56.0,Waterford United
+21,55.0,Waterford United
+22,56.0,Waterford United
+15,61.0,Ried
+16,61.0,Ried
+17,63.0,Ried
+21,64.0,Ried
+22,63.0,Ried
+23,63.0,Ried
+23,63.0,Austria Lustenau
+15,68.0,København
+16,70.0,København
+17,71.0,København
+18,69.0,København
+19,69.0,København
+20,69.0,København
+21,70.0,København
+22,70.0,København
+23,69.0,København
+15,64.0,AaB
+16,62.0,AaB
+17,62.0,AaB
+18,63.0,AaB
+19,64.0,AaB
+20,63.0,AaB
+21,64.0,AaB
+22,67.0,AaB
+23,67.0,AaB
+19,63.0,Vejle
+21,64.0,Vejle
+22,63.0,Vejle
+21,56.0,Shelbourne
+23,57.0,Shelbourne
+15,57.0,Dundalk
+16,59.0,Dundalk
+17,60.0,Dundalk
+18,60.0,Dundalk
+19,63.0,Dundalk
+20,63.0,Dundalk
+21,62.0,Dundalk
+22,60.0,Dundalk
+23,59.0,Dundalk
+15,53.0,Bray Wanderers
+16,54.0,Bray Wanderers
+17,56.0,Bray Wanderers
+18,55.0,Bray Wanderers
+19,53.0,Bray Wanderers
+15,65.0,Lech Poznań
+16,68.0,Lech Poznań
+17,69.0,Lech Poznań
+18,69.0,Lech Poznań
+19,66.0,Lech Poznań
+20,64.0,Lech Poznań
+21,67.0,Lech Poznań
+22,68.0,Lech Poznań
+23,68.0,Lech Poznań
+15,61.0,Ruch Chorzów
+16,62.0,Ruch Chorzów
+17,63.0,Ruch Chorzów
+15,62.0,Zürich
+16,61.0,Zürich
+18,62.0,Zürich
+19,65.0,Zürich
+20,63.0,Zürich
+21,64.0,Zürich
+22,65.0,Zürich
+23,67.0,Zürich
+15,69.0,Basel
+16,71.0,Basel
+17,72.0,Basel
+18,70.0,Basel
+19,69.0,Basel
+20,69.0,Basel
+21,70.0,Basel
+22,69.0,Basel
+23,68.0,Basel
+15,62.0,Luzern
+16,64.0,Luzern
+17,62.0,Luzern
+18,63.0,Luzern
+19,65.0,Luzern
+20,66.0,Luzern
+21,65.0,Luzern
+22,66.0,Luzern
+23,65.0,Luzern
+15,61.0,St. Gallen
+16,63.0,St. Gallen
+17,66.0,St. Gallen
+18,63.0,St. Gallen
+19,64.0,St. Gallen
+20,63.0,St. Gallen
+21,63.0,St. Gallen
+22,62.0,St. Gallen
+23,62.0,St. Gallen
+15,64.0,Young Boys
+16,68.0,Young Boys
+17,68.0,Young Boys
+18,67.0,Young Boys
+19,68.0,Young Boys
+20,69.0,Young Boys
+21,69.0,Young Boys
+22,69.0,Young Boys
+23,69.0,Young Boys
+15,60.0,Stabæk
+16,61.0,Stabæk
+17,61.0,Stabæk
+18,62.0,Stabæk
+19,62.0,Stabæk
+20,63.0,Stabæk
+21,62.0,Stabæk
+22,63.0,Stabæk
+15,60.0,Bodø / Glimt
+16,61.0,Bodø / Glimt
+17,61.0,Bodø / Glimt
+19,62.0,Bodø / Glimt
+20,62.0,Bodø / Glimt
+21,64.0,Bodø / Glimt
+22,65.0,Bodø / Glimt
+23,66.0,Bodø / Glimt
+15,62.0,Brann
+17,65.0,Brann
+18,65.0,Brann
+19,66.0,Brann
+20,65.0,Brann
+21,65.0,Brann
+22,62.0,Brann
+15,63.0,Vålerenga
+16,64.0,Vålerenga
+17,64.0,Vålerenga
+18,64.0,Vålerenga
+19,64.0,Vålerenga
+20,65.0,Vålerenga
+21,65.0,Vålerenga
+22,65.0,Vålerenga
+23,65.0,Vålerenga
+15,65.0,Strømsgodset
+16,66.0,Strømsgodset
+17,65.0,Strømsgodset
+18,66.0,Strømsgodset
+19,63.0,Strømsgodset
+20,62.0,Strømsgodset
+21,64.0,Strømsgodset
+22,62.0,Strømsgodset
+23,62.0,Strømsgodset
+16,59.0,Daejeon Citizen
+15,61.0,Seongnam
+16,63.0,Seongnam
+17,64.0,Seongnam
+20,61.0,Seongnam
+21,61.0,Seongnam
+22,61.0,Seongnam
+23,62.0,Seongnam
+15,64.0,Seoul
+16,65.0,Seoul
+17,66.0,Seoul
+18,65.0,Seoul
+19,65.0,Seoul
+20,65.0,Seoul
+21,63.0,Seoul
+22,64.0,Seoul
+23,63.0,Seoul
+15,63.0,Suwon Bluewings
+16,65.0,Suwon Bluewings
+17,67.0,Suwon Bluewings
+18,66.0,Suwon Bluewings
+19,66.0,Suwon Bluewings
+20,66.0,Suwon Bluewings
+21,65.0,Suwon Bluewings
+22,64.0,Suwon Bluewings
+23,64.0,Suwon Bluewings
+15,70.0,San Lorenzo
+16,72.0,San Lorenzo
+17,72.0,San Lorenzo
+18,69.0,San Lorenzo
+19,70.0,San Lorenzo
+20,72.0,San Lorenzo
+21,71.0,San Lorenzo
+22,68.0,San Lorenzo
+23,67.0,San Lorenzo
+15,65.0,Morelia
+16,68.0,Morelia
+17,69.0,Morelia
+18,69.0,Morelia
+19,67.0,Morelia
+20,68.0,Morelia
+15,66.0,Monterrey
+16,68.0,Monterrey
+17,71.0,Monterrey
+18,73.0,Monterrey
+19,73.0,Monterrey
+20,74.0,Monterrey
+21,73.0,Monterrey
+22,74.0,Monterrey
+16,73.0,Atlético Mineiro
+17,68.0,Atlético Mineiro
+18,71.5,Atlético Mineiro
+19,73.0,Atlético Mineiro
+20,73.0,Atlético Mineiro
+21,73.0,Atlético Mineiro
+22,73.5,Atlético Mineiro
+23,74.5,Atlético Mineiro
+16,69.0,Athletico PR
+17,69.0,Athletico PR
+18,70.5,Athletico PR
+19,70.0,Athletico PR
+20,71.0,Athletico PR
+21,72.0,Athletico PR
+22,73.0,Athletico PR
+23,73.0,Athletico PR
+21,67.0,Corinthians
+22,71.0,Corinthians
+23,71.5,Corinthians
+21,74.5,Flamengo
+22,74.5,Flamengo
+23,74.5,Flamengo
+16,72.0,Internacional
+17,70.0,Internacional
+19,73.0,Internacional
+20,73.5,Internacional
+21,72.5,Internacional
+22,72.5,Internacional
+23,72.5,Internacional
+16,71.0,Santos
+17,70.0,Santos
+18,73.5,Santos
+19,70.5,Santos
+20,72.0,Santos
+21,72.0,Santos
+22,72.0,Santos
+23,72.0,Santos
+19,68.0,Santa Clara
+20,69.0,Santa Clara
+21,68.0,Santa Clara
+22,67.0,Santa Clara
+23,66.0,Santa Clara
+15,62.0,Kalmar
+16,62.0,Kalmar
+17,63.0,Kalmar
+18,64.0,Kalmar
+19,62.0,Kalmar
+20,62.0,Kalmar
+21,62.0,Kalmar
+22,63.0,Kalmar
+23,63.0,Kalmar
+16,62.0,Viborg
+17,62.0,Viborg
+22,63.0,Viborg
+23,64.0,Viborg
+15,63.0,Esbjerg
+16,63.0,Esbjerg
+17,62.0,Esbjerg
+19,61.0,Esbjerg
+20,64.0,Esbjerg
+17,62.0,Horsens
+18,60.0,Horsens
+19,62.0,Horsens
+20,64.0,Horsens
+21,62.0,Horsens
+23,63.0,Horsens
+15,58.0,SønderjyskE
+16,63.0,SønderjyskE
+17,64.0,SønderjyskE
+18,63.0,SønderjyskE
+19,62.0,SønderjyskE
+20,63.0,SønderjyskE
+21,64.0,SønderjyskE
+22,62.0,SønderjyskE
+15,62.0,Odd
+16,64.0,Odd
+17,65.0,Odd
+18,64.0,Odd
+19,63.0,Odd
+20,61.0,Odd
+21,64.0,Odd
+22,63.0,Odd
+23,63.0,Odd
+20,69.0,Denizlispor
+21,67.0,Denizlispor
+15,64.0,Kayseri Erciyesspor
+15,62.0,Haugesund
+16,62.0,Haugesund
+17,63.0,Haugesund
+18,62.0,Haugesund
+19,62.0,Haugesund
+20,62.0,Haugesund
+21,63.0,Haugesund
+22,62.0,Haugesund
+23,63.0,Haugesund
+15,58.0,Sogndal
+17,60.0,Sogndal
+18,59.0,Sogndal
+15,61.0,Ulsan
+16,64.0,Ulsan
+17,66.0,Ulsan
+18,66.0,Ulsan
+19,66.0,Ulsan
+20,67.0,Ulsan
+21,67.0,Ulsan
+22,66.0,Ulsan
+23,67.0,Ulsan
+15,62.0,Pohang Steelers
+16,63.0,Pohang Steelers
+17,65.0,Pohang Steelers
+18,65.0,Pohang Steelers
+19,65.0,Pohang Steelers
+20,64.0,Pohang Steelers
+21,63.0,Pohang Steelers
+22,62.0,Pohang Steelers
+23,65.0,Pohang Steelers
+15,60.0,Jeonnam Dragons
+16,63.0,Jeonnam Dragons
+17,65.0,Jeonnam Dragons
+18,65.0,Jeonnam Dragons
+19,64.0,Jeonnam Dragons
+15,60.0,Busan I'Park
+16,61.0,Busan I'Park
+21,59.0,Busan I'Park
+15,64.0,Jeonbuk Motors
+16,67.0,Jeonbuk Motors
+17,67.0,Jeonbuk Motors
+18,67.0,Jeonbuk Motors
+19,68.0,Jeonbuk Motors
+20,68.0,Jeonbuk Motors
+21,67.0,Jeonbuk Motors
+22,67.0,Jeonbuk Motors
+23,67.0,Jeonbuk Motors
+15,60.0,Jeju United
+16,61.0,Jeju United
+17,65.0,Jeju United
+18,65.0,Jeju United
+19,65.0,Jeju United
+20,65.0,Jeju United
+22,63.0,Jeju United
+23,63.0,Jeju United
+15,58.0,Carlisle United
+16,59.0,Carlisle United
+17,62.0,Carlisle United
+18,61.0,Carlisle United
+19,61.0,Carlisle United
+20,59.0,Carlisle United
+21,61.0,Carlisle United
+22,61.0,Carlisle United
+23,60.0,Carlisle United
+15,64.0,Midtjylland
+16,68.0,Midtjylland
+17,68.0,Midtjylland
+18,68.0,Midtjylland
+19,68.0,Midtjylland
+20,67.0,Midtjylland
+21,69.0,Midtjylland
+22,68.0,Midtjylland
+23,69.0,Midtjylland
+15,60.0,Start
+16,59.0,Start
+17,60.0,Start
+19,62.0,Start
+21,63.0,Start
+15,64.0,Angers SCO
+16,66.0,Angers SCO
+17,70.0,Angers SCO
+18,71.0,Angers SCO
+19,71.0,Angers SCO
+20,72.0,Angers SCO
+21,72.0,Angers SCO
+22,71.0,Angers SCO
+23,70.0,Angers SCO
+17,62.0,Wisła Płock
+18,63.0,Wisła Płock
+19,62.0,Wisła Płock
+20,63.0,Wisła Płock
+21,63.0,Wisła Płock
+22,64.0,Wisła Płock
+23,63.0,Wisła Płock
+16,54.0,Galway United
+17,55.0,Galway United
+18,53.0,Galway United
+15,52.0,Drogheda United
+16,51.0,Drogheda United
+18,55.0,Drogheda United
+22,57.0,Drogheda United
+23,56.0,Drogheda United
+16,54.0,Longford Town
+17,53.0,Longford Town
+22,54.0,Longford Town
+16,60.0,GIF Sundsvall
+17,60.0,GIF Sundsvall
+18,60.0,GIF Sundsvall
+19,63.0,GIF Sundsvall
+20,63.0,GIF Sundsvall
+23,61.0,GIF Sundsvall
+19,70.5,Bahia
+20,70.5,Bahia
+21,70.5,Bahia
+22,70.0,Bahia
+16,69.0,Grêmio
+17,71.0,Grêmio
+18,73.0,Grêmio
+19,74.0,Grêmio
+20,74.0,Grêmio
+21,73.0,Grêmio
+22,72.0,Grêmio
+23,62.0,Winterthur
+15,58.0,Thun
+16,59.0,Thun
+17,60.0,Thun
+18,59.0,Thun
+19,60.0,Thun
+20,62.0,Thun
+17,68.5,Vitória
+18,66.0,Vitória
+19,70.5,Vitória
+15,60.0,Le Havre
+16,62.0,Le Havre
+17,66.0,Le Havre
+18,64.0,Le Havre
+19,65.0,Le Havre
+20,66.0,Le Havre
+21,65.0,Le Havre
+22,65.0,Le Havre
+23,64.0,Le Havre
+20,65.0,Le Mans
+15,63.0,Modena
+16,64.0,Modena
+23,65.0,Modena
+16,63.0,Como
+23,67.0,Como
+15,68.0,Empoli
+16,70.0,Empoli
+17,71.0,Empoli
+18,66.0,Empoli
+19,70.0,Empoli
+20,69.0,Empoli
+21,68.0,Empoli
+22,71.0,Empoli
+23,72.0,Empoli
+15,64.0,Cercle Brugge
+19,67.0,Cercle Brugge
+20,67.0,Cercle Brugge
+21,66.0,Cercle Brugge
+22,67.0,Cercle Brugge
+23,67.0,Cercle Brugge
+15,60.0,Partick Thistle
+16,62.0,Partick Thistle
+17,63.0,Partick Thistle
+18,63.0,Partick Thistle
+15,62.0,Aalesund
+16,62.0,Aalesund
+17,63.0,Aalesund
+18,63.0,Aalesund
+21,61.0,Aalesund
+23,63.0,Aalesund
+23,62.0,HamKam
+16,60.0,Sandefjord
+18,62.0,Sandefjord
+19,62.0,Sandefjord
+21,62.0,Sandefjord
+22,62.0,Sandefjord
+23,62.0,Sandefjord
+16,62.0,Mattersburg
+17,63.0,Mattersburg
+18,63.0,Mattersburg
+19,63.0,Mattersburg
+20,63.0,Mattersburg
+15,63.0,Randers
+16,64.0,Randers
+17,63.0,Randers
+18,65.0,Randers
+19,64.0,Randers
+20,63.0,Randers
+21,64.0,Randers
+22,64.0,Randers
+23,66.0,Randers
+22,64.0,Austria Klagenfurt
+23,64.0,Austria Klagenfurt
+15,57.0,Nordsjælland
+16,60.0,Nordsjælland
+17,61.0,Nordsjælland
+18,62.0,Nordsjælland
+19,63.0,Nordsjælland
+20,64.0,Nordsjælland
+21,62.0,Nordsjælland
+22,62.0,Nordsjælland
+23,64.0,Nordsjælland
+15,60.0,Portsmouth
+16,62.0,Portsmouth
+17,63.0,Portsmouth
+18,65.0,Portsmouth
+19,65.0,Portsmouth
+20,65.0,Portsmouth
+21,65.0,Portsmouth
+22,65.0,Portsmouth
+23,65.0,Portsmouth
+15,70.0,Norwich City
+16,71.0,Norwich City
+17,72.0,Norwich City
+18,69.0,Norwich City
+19,71.0,Norwich City
+20,72.0,Norwich City
+21,72.0,Norwich City
+22,72.0,Norwich City
+23,70.0,Norwich City
+15,66.0,Reading
+16,68.0,Reading
+17,68.0,Reading
+18,69.0,Reading
+19,68.0,Reading
+20,68.0,Reading
+21,67.0,Reading
+22,68.0,Reading
+23,68.0,Reading
+15,62.0,Sheffield United
+16,64.0,Sheffield United
+17,65.0,Sheffield United
+18,67.0,Sheffield United
+19,68.0,Sheffield United
+20,72.0,Sheffield United
+21,72.0,Sheffield United
+22,72.0,Sheffield United
+23,71.0,Sheffield United
+15,68.0,Watford
+16,71.0,Watford
+17,76.0,Watford
+18,75.0,Watford
+19,75.0,Watford
+20,75.0,Watford
+21,72.0,Watford
+22,73.0,Watford
+23,72.0,Watford
+15,68.0,Burnley
+16,69.0,Burnley
+17,71.0,Burnley
+18,73.0,Burnley
+19,75.0,Burnley
+20,74.0,Burnley
+21,73.0,Burnley
+22,74.0,Burnley
+23,71.0,Burnley
+15,64.0,Rotherham United
+16,65.0,Rotherham United
+17,65.0,Rotherham United
+18,64.0,Rotherham United
+19,67.0,Rotherham United
+20,65.0,Rotherham United
+21,67.0,Rotherham United
+22,66.0,Rotherham United
+23,66.0,Rotherham United
+15,62.0,Milton Keynes Dons
+16,64.0,Milton Keynes Dons
+17,64.0,Milton Keynes Dons
+18,63.0,Milton Keynes Dons
+19,63.0,Milton Keynes Dons
+20,63.0,Milton Keynes Dons
+21,63.0,Milton Keynes Dons
+22,64.0,Milton Keynes Dons
+23,64.0,Milton Keynes Dons
+15,71.0,Crystal Palace
+16,74.0,Crystal Palace
+17,74.0,Crystal Palace
+18,73.0,Crystal Palace
+19,74.0,Crystal Palace
+20,75.0,Crystal Palace
+21,75.0,Crystal Palace
+22,74.0,Crystal Palace
+23,74.0,Crystal Palace
+15,61.0,Coventry City
+16,64.0,Coventry City
+17,63.0,Coventry City
+18,61.0,Coventry City
+19,63.0,Coventry City
+20,64.0,Coventry City
+21,66.0,Coventry City
+22,68.0,Coventry City
+23,68.0,Coventry City
+15,62.0,Preston North End
+16,65.0,Preston North End
+17,68.0,Preston North End
+18,69.0,Preston North End
+19,69.0,Preston North End
+20,68.0,Preston North End
+21,68.0,Preston North End
+22,68.0,Preston North End
+23,68.0,Preston North End
+15,59.0,Gillingham
+16,62.0,Gillingham
+17,62.0,Gillingham
+18,61.0,Gillingham
+19,62.0,Gillingham
+20,63.0,Gillingham
+21,63.0,Gillingham
+22,63.0,Gillingham
+23,61.0,Gillingham
+15,61.0,Walsall
+16,62.0,Walsall
+17,62.0,Walsall
+18,63.0,Walsall
+19,64.0,Walsall
+20,62.0,Walsall
+21,61.0,Walsall
+22,62.0,Walsall
+23,61.0,Walsall
+15,62.0,Bradford City
+16,63.0,Bradford City
+17,64.0,Bradford City
+18,64.0,Bradford City
+19,64.0,Bradford City
+20,63.0,Bradford City
+21,61.0,Bradford City
+22,62.0,Bradford City
+23,62.0,Bradford City
+19,65.0,Grenoble Foot 38
+20,66.0,Grenoble Foot 38
+21,65.0,Grenoble Foot 38
+22,65.0,Grenoble Foot 38
+23,65.0,Grenoble Foot 38
+15,72.0,Stoke City
+16,75.0,Stoke City
+17,76.0,Stoke City
+18,75.0,Stoke City
+19,71.0,Stoke City
+20,70.0,Stoke City
+21,69.0,Stoke City
+22,69.0,Stoke City
+23,68.0,Stoke City
+15,65.0,Sheffield Wednesday
+16,69.0,Sheffield Wednesday
+17,71.0,Sheffield Wednesday
+18,70.0,Sheffield Wednesday
+19,69.0,Sheffield Wednesday
+20,69.0,Sheffield Wednesday
+21,69.0,Sheffield Wednesday
+22,66.0,Sheffield Wednesday
+23,67.0,Sheffield Wednesday
+15,66.0,Brighton & Hove Albion
+16,69.0,Brighton & Hove Albion
+17,71.0,Brighton & Hove Albion
+18,72.0,Brighton & Hove Albion
+19,74.0,Brighton & Hove Albion
+20,74.0,Brighton & Hove Albion
+21,73.0,Brighton & Hove Albion
+22,73.0,Brighton & Hove Albion
+23,74.0,Brighton & Hove Albion
+15,69.0,Toulouse
+16,70.0,Toulouse
+17,70.0,Toulouse
+18,72.0,Toulouse
+19,72.0,Toulouse
+20,70.0,Toulouse
+21,67.0,Toulouse
+22,66.0,Toulouse
+23,70.0,Toulouse
+15,63.0,Créteil
+16,64.0,Créteil
+15,64.0,Niort
+16,63.0,Niort
+17,64.0,Niort
+18,63.0,Niort
+19,63.0,Niort
+20,64.0,Niort
+21,63.0,Niort
+22,63.0,Niort
+23,62.0,Niort
+15,62.0,Laval
+16,64.0,Laval
+17,65.0,Laval
+23,64.0,Laval
+15,62.0,Clermont
+16,64.0,Clermont
+17,65.0,Clermont
+18,64.0,Clermont
+19,65.0,Clermont
+20,64.0,Clermont
+21,65.0,Clermont
+22,70.0,Clermont
+23,69.0,Clermont
+17,64.0,Amiens SC
+18,71.0,Amiens SC
+19,71.0,Amiens SC
+20,72.0,Amiens SC
+21,64.0,Amiens SC
+22,66.0,Amiens SC
+23,64.5,Amiens SC
+15,73.0,Saint-Étienne
+16,73.0,Saint-Étienne
+17,74.0,Saint-Étienne
+18,72.0,Saint-Étienne
+19,73.0,Saint-Étienne
+20,72.0,Saint-Étienne
+21,71.0,Saint-Étienne
+22,72.0,Saint-Étienne
+23,67.0,Saint-Étienne
+15,63.5,Nancy
+16,66.0,Nancy
+17,69.0,Nancy
+18,68.0,Nancy
+19,67.0,Nancy
+20,64.0,Nancy
+21,63.0,Nancy
+22,64.0,Nancy
+15,73.0,Eintracht Frankfurt
+16,73.0,Eintracht Frankfurt
+17,72.0,Eintracht Frankfurt
+18,74.0,Eintracht Frankfurt
+19,75.0,Eintracht Frankfurt
+20,75.0,Eintracht Frankfurt
+21,74.0,Eintracht Frankfurt
+22,73.0,Eintracht Frankfurt
+23,74.0,Eintracht Frankfurt
+16,65.0,MSV Duisburg
+18,66.0,MSV Duisburg
+19,68.0,MSV Duisburg
+20,63.0,MSV Duisburg
+21,63.0,MSV Duisburg
+22,62.0,MSV Duisburg
+23,63.0,MSV Duisburg
+21,62.0,VfB Lübeck
+15,65.0,FC Union Berlin
+16,67.0,FC Union Berlin
+17,68.0,FC Union Berlin
+18,69.0,FC Union Berlin
+19,70.0,FC Union Berlin
+20,70.0,FC Union Berlin
+21,71.0,FC Union Berlin
+22,72.0,FC Union Berlin
+23,73.0,FC Union Berlin
+15,64.0,Karlsruher SC
+16,66.0,Karlsruher SC
+17,67.0,Karlsruher SC
+18,66.0,Karlsruher SC
+19,65.0,Karlsruher SC
+20,66.0,Karlsruher SC
+21,67.0,Karlsruher SC
+22,67.0,Karlsruher SC
+23,67.0,Karlsruher SC
+15,71.0,Sampdoria
+16,73.0,Sampdoria
+17,74.0,Sampdoria
+18,73.0,Sampdoria
+19,74.0,Sampdoria
+20,72.0,Sampdoria
+21,73.0,Sampdoria
+22,73.0,Sampdoria
+23,72.0,Sampdoria
+15,70.0,Cagliari
+16,69.0,Cagliari
+17,72.0,Cagliari
+18,72.0,Cagliari
+19,73.0,Cagliari
+20,75.0,Cagliari
+21,71.0,Cagliari
+22,71.0,Cagliari
+23,68.0,Cagliari
+15,69.0,Palermo
+16,70.0,Palermo
+17,70.0,Palermo
+18,68.0,Palermo
+19,69.0,Palermo
+23,65.0,Palermo
+15,64.0,Livorno
+16,65.0,Livorno
+19,64.0,Livorno
+20,66.0,Livorno
+16,64.0,Ascoli
+17,65.0,Ascoli
+18,65.0,Ascoli
+19,66.0,Ascoli
+20,67.0,Ascoli
+23,68.0,Ascoli
+15,66.0,Bari 1908
+16,68.0,Bari 1908
+17,68.0,Bari 1908
+18,68.0,Bari 1908
+19,65.0,Bari 1908
+23,67.0,Bari 1908
+15,72.0,Levante
+16,73.0,Levante
+17,72.0,Levante
+18,73.0,Levante
+19,74.0,Levante
+20,75.0,Levante
+21,73.0,Levante
+22,74.0,Levante
+23,71.0,Levante
+15,62.0,Albacete
+16,65.0,Albacete
+18,67.0,Albacete
+19,67.0,Albacete
+20,68.0,Albacete
+21,66.0,Albacete
+23,65.0,Albacete
+15,70.0,Getafe
+16,73.0,Getafe
+17,71.0,Getafe
+18,72.0,Getafe
+19,76.0,Getafe
+20,75.0,Getafe
+21,74.0,Getafe
+22,74.0,Getafe
+23,74.0,Getafe
+15,70.0,Almería
+16,69.0,Almería
+17,69.0,Almería
+18,69.0,Almería
+19,66.0,Almería
+20,68.0,Almería
+21,70.0,Almería
+22,70.0,Almería
+23,72.0,Almería
+17,61.0,Lausanne Sport
+18,61.0,Lausanne Sport
+21,63.0,Lausanne Sport
+22,62.0,Lausanne Sport
+15,69.0,Córdoba
+16,68.0,Córdoba
+17,68.0,Córdoba
+18,65.0,Córdoba
+19,66.0,Córdoba
+15,67.0,Legia Warszawa
+16,68.0,Legia Warszawa
+17,70.0,Legia Warszawa
+18,69.0,Legia Warszawa
+19,69.0,Legia Warszawa
+20,67.0,Legia Warszawa
+21,68.0,Legia Warszawa
+22,67.0,Legia Warszawa
+23,66.0,Legia Warszawa
+15,63.0,Wisła Kraków
+16,64.0,Wisła Kraków
+17,66.0,Wisła Kraków
+18,67.0,Wisła Kraków
+19,63.0,Wisła Kraków
+20,65.0,Wisła Kraków
+21,65.0,Wisła Kraków
+22,64.0,Wisła Kraków
+22,70.0,Ferencváros
+23,70.0,Ferencváros
+15,70.0,River Plate
+16,71.5,River Plate
+17,72.0,River Plate
+18,73.0,River Plate
+19,74.0,River Plate
+20,74.0,River Plate
+21,73.0,River Plate
+22,74.0,River Plate
+23,74.0,River Plate
+15,71.0,Boca Juniors
+16,73.0,Boca Juniors
+17,73.0,Boca Juniors
+18,73.0,Boca Juniors
+19,75.0,Boca Juniors
+20,74.0,Boca Juniors
+21,73.0,Boca Juniors
+22,73.0,Boca Juniors
+23,73.0,Boca Juniors
+15,66.0,Cruz Azul
+16,68.0,Cruz Azul
+17,70.0,Cruz Azul
+18,70.0,Cruz Azul
+19,70.0,Cruz Azul
+20,70.0,Cruz Azul
+21,72.0,Cruz Azul
+22,72.0,Cruz Azul
+15,66.0,América
+16,67.0,América
+17,70.0,América
+18,71.0,América
+19,71.0,América
+20,72.0,América
+21,71.0,América
+22,72.0,América
+15,66.0,Guadalajara
+16,68.0,Guadalajara
+17,70.0,Guadalajara
+18,69.0,Guadalajara
+19,69.0,Guadalajara
+20,70.0,Guadalajara
+21,69.0,Guadalajara
+22,69.0,Guadalajara
+15,64.0,Pumas UNAM
+16,69.0,Pumas UNAM
+17,67.0,Pumas UNAM
+18,67.0,Pumas UNAM
+19,67.0,Pumas UNAM
+20,68.0,Pumas UNAM
+21,67.0,Pumas UNAM
+22,65.0,Pumas UNAM
+15,65.0,Toluca
+16,68.0,Toluca
+17,70.0,Toluca
+18,67.0,Toluca
+19,70.0,Toluca
+20,70.0,Toluca
+21,69.0,Toluca
+22,69.0,Toluca
+15,68.0,Panathinaikos
+16,72.0,Panathinaikos
+17,71.0,Panathinaikos
+18,70.0,Panathinaikos
+19,68.0,Panathinaikos
+20,69.0,Panathinaikos
+21,70.0,Panathinaikos
+22,70.0,Panathinaikos
+23,71.5,Panathinaikos
+15,66.0,Vitória SC
+16,70.0,Vitória SC
+17,72.0,Vitória SC
+18,72.0,Vitória SC
+19,73.0,Vitória SC
+20,72.0,Vitória SC
+21,69.0,Vitória SC
+22,69.0,Vitória SC
+23,68.0,Vitória SC
+15,65.0,Gil Vicente
+20,68.0,Gil Vicente
+21,68.0,Gil Vicente
+22,67.0,Gil Vicente
+23,68.0,Gil Vicente
+15,66.0,Belenenses
+16,69.0,Belenenses
+17,69.0,Belenenses
+18,69.0,Belenenses
+19,68.0,Belenenses
+20,67.0,Belenenses
+21,66.0,Belenenses
+22,66.0,Belenenses
+15,66.0,Nacional
+16,69.0,Nacional
+17,68.0,Nacional
+19,69.0,Nacional
+21,68.0,Nacional
+15,65.0,Paços de Ferreira
+16,68.0,Paços de Ferreira
+17,69.0,Paços de Ferreira
+18,69.0,Paços de Ferreira
+20,68.0,Paços de Ferreira
+21,68.0,Paços de Ferreira
+22,67.0,Paços de Ferreira
+23,67.0,Paços de Ferreira
+15,66.0,Marítimo
+16,67.0,Marítimo
+17,69.0,Marítimo
+18,69.0,Marítimo
+19,69.0,Marítimo
+20,69.0,Marítimo
+21,67.0,Marítimo
+22,68.0,Marítimo
+23,68.0,Marítimo
+15,70.0,Sporting Braga
+16,73.0,Sporting Braga
+17,74.0,Sporting Braga
+18,74.0,Sporting Braga
+19,75.0,Sporting Braga
+20,75.0,Sporting Braga
+21,73.0,Sporting Braga
+22,72.0,Sporting Braga
+23,72.0,Sporting Braga
+15,64.0,Boavista
+16,66.0,Boavista
+17,69.0,Boavista
+18,70.0,Boavista
+19,69.0,Boavista
+20,70.0,Boavista
+21,67.0,Boavista
+22,68.0,Boavista
+23,68.0,Boavista
+15,65.0,Moreirense
+16,68.0,Moreirense
+17,69.0,Moreirense
+18,68.0,Moreirense
+19,70.0,Moreirense
+20,70.0,Moreirense
+21,68.0,Moreirense
+22,67.0,Moreirense
+15,66.0,Académica
+16,68.0,Académica
+16,66.0,Roda JC Kerkrade
+17,66.0,Roda JC Kerkrade
+18,65.0,Roda JC Kerkrade
+15,65.0,FC Utrecht
+16,68.0,FC Utrecht
+17,68.0,FC Utrecht
+18,70.0,FC Utrecht
+19,70.0,FC Utrecht
+20,69.0,FC Utrecht
+21,68.0,FC Utrecht
+22,69.0,FC Utrecht
+23,69.0,FC Utrecht
+15,65.0,NAC Breda
+18,65.0,NAC Breda
+19,66.0,NAC Breda
+20,64.0,RKC Waalwijk
+21,64.0,RKC Waalwijk
+22,65.0,RKC Waalwijk
+23,65.0,RKC Waalwijk
+15,67.0,AZ
+16,68.0,AZ
+17,70.0,AZ
+18,70.0,AZ
+19,70.0,AZ
+20,70.0,AZ
+21,70.0,AZ
+22,69.0,AZ
+23,70.0,AZ
+15,64.0,Willem II
+16,67.0,Willem II
+17,67.0,Willem II
+18,66.0,Willem II
+19,67.0,Willem II
+20,66.0,Willem II
+21,67.0,Willem II
+22,66.0,Willem II
+15,69.0,FC Twente
+16,66.0,FC Twente
+17,66.0,FC Twente
+18,67.0,FC Twente
+20,67.0,FC Twente
+21,66.0,FC Twente
+22,67.0,FC Twente
+23,68.0,FC Twente
+15,70.0,Vitesse
+16,69.0,Vitesse
+17,70.0,Vitesse
+18,68.0,Vitesse
+19,70.0,Vitesse
+20,68.0,Vitesse
+21,66.0,Vitesse
+22,66.0,Vitesse
+23,67.0,Vitesse
+16,66.0,NEC
+17,65.0,NEC
+22,66.0,NEC
+23,67.0,NEC
+15,64.5,SC Heerenveen
+16,67.0,SC Heerenveen
+17,68.0,SC Heerenveen
+18,69.0,SC Heerenveen
+19,68.0,SC Heerenveen
+20,67.0,SC Heerenveen
+21,66.0,SC Heerenveen
+22,66.0,SC Heerenveen
+23,68.0,SC Heerenveen
+15,66.0,PEC Zwolle
+16,67.0,PEC Zwolle
+17,67.0,PEC Zwolle
+18,67.0,PEC Zwolle
+19,67.0,PEC Zwolle
+20,67.0,PEC Zwolle
+21,65.0,PEC Zwolle
+22,65.0,PEC Zwolle
+15,65.0,FC Groningen
+16,68.0,FC Groningen
+17,67.0,FC Groningen
+18,68.0,FC Groningen
+19,66.0,FC Groningen
+20,65.0,FC Groningen
+21,66.0,FC Groningen
+22,65.0,FC Groningen
+23,66.0,FC Groningen
+15,67.0,Wigan Athletic
+16,66.0,Wigan Athletic
+17,68.0,Wigan Athletic
+18,67.0,Wigan Athletic
+19,69.0,Wigan Athletic
+20,68.0,Wigan Athletic
+21,61.0,Wigan Athletic
+22,66.0,Wigan Athletic
+23,67.0,Wigan Athletic
+15,63.0,Bristol City
+16,66.0,Bristol City
+17,68.0,Bristol City
+18,69.0,Bristol City
+19,69.0,Bristol City
+20,70.0,Bristol City
+21,69.0,Bristol City
+22,68.0,Bristol City
+23,68.0,Bristol City
+15,61.0,Oldham Athletic
+16,61.0,Oldham Athletic
+17,63.0,Oldham Athletic
+18,63.0,Oldham Athletic
+19,61.0,Oldham Athletic
+20,61.0,Oldham Athletic
+21,61.0,Oldham Athletic
+22,60.0,Oldham Athletic
+15,56.0,Luton Town
+16,61.0,Luton Town
+17,61.0,Luton Town
+18,63.0,Luton Town
+19,65.0,Luton Town
+20,66.0,Luton Town
+21,67.0,Luton Town
+22,68.0,Luton Town
+23,68.0,Luton Town
+15,60.0,Chesterfield
+16,62.0,Chesterfield
+17,62.0,Chesterfield
+18,61.0,Chesterfield
+15,62.0,Brentford
+16,65.0,Brentford
+17,67.0,Brentford
+18,68.0,Brentford
+19,68.0,Brentford
+20,69.0,Brentford
+21,69.0,Brentford
+22,72.0,Brentford
+23,73.0,Brentford
+15,63.0,Blackpool
+16,60.0,Blackpool
+17,62.0,Blackpool
+18,62.0,Blackpool
+19,62.0,Blackpool
+20,64.0,Blackpool
+21,64.0,Blackpool
+22,66.0,Blackpool
+23,66.0,Blackpool
+15,61.0,Port Vale
+16,62.0,Port Vale
+17,62.0,Port Vale
+18,60.0,Port Vale
+19,60.0,Port Vale
+20,61.0,Port Vale
+21,62.0,Port Vale
+22,62.0,Port Vale
+23,63.0,Port Vale
+15,59.0,Plymouth Argyle
+16,61.0,Plymouth Argyle
+17,62.0,Plymouth Argyle
+18,64.0,Plymouth Argyle
+19,64.0,Plymouth Argyle
+20,62.0,Plymouth Argyle
+21,63.0,Plymouth Argyle
+22,64.0,Plymouth Argyle
+23,65.0,Plymouth Argyle
+15,59.0,Northampton Town
+16,61.0,Northampton Town
+17,64.0,Northampton Town
+18,64.0,Northampton Town
+19,62.0,Northampton Town
+20,61.0,Northampton Town
+21,62.0,Northampton Town
+22,62.0,Northampton Town
+23,62.0,Northampton Town
+23,62.0,Stockport County
+15,61.0,Barnsley
+16,60.0,Barnsley
+17,64.0,Barnsley
+18,66.0,Barnsley
+19,64.0,Barnsley
+20,66.0,Barnsley
+21,65.0,Barnsley
+22,65.0,Barnsley
+23,65.0,Barnsley
+15,58.0,Wycombe Wanderers
+16,60.0,Wycombe Wanderers
+17,62.0,Wycombe Wanderers
+18,63.0,Wycombe Wanderers
+19,64.0,Wycombe Wanderers
+20,64.0,Wycombe Wanderers
+21,66.0,Wycombe Wanderers
+22,66.0,Wycombe Wanderers
+23,65.0,Wycombe Wanderers
+15,58.0,Swindon Town
+16,58.0,Swindon Town
+17,60.0,Swindon Town
+18,60.0,Swindon Town
+19,61.0,Swindon Town
+20,63.0,Swindon Town
+21,62.0,Swindon Town
+22,62.0,Swindon Town
+23,60.0,Swindon Town
+15,60.0,Colchester United
+16,60.0,Colchester United
+17,61.0,Colchester United
+18,62.0,Colchester United
+19,62.0,Colchester United
+20,63.0,Colchester United
+21,61.0,Colchester United
+22,62.0,Colchester United
+23,61.0,Colchester United
+15,57.0,Cheltenham Town
+17,58.0,Cheltenham Town
+18,60.0,Cheltenham Town
+19,61.0,Cheltenham Town
+20,61.0,Cheltenham Town
+21,62.0,Cheltenham Town
+22,62.0,Cheltenham Town
+23,61.0,Cheltenham Town
+15,60.0,Notts County
+16,62.0,Notts County
+17,62.0,Notts County
+18,62.0,Notts County
+19,62.0,Notts County
+15,60.0,Peterborough United
+16,61.0,Peterborough United
+17,63.0,Peterborough United
+18,62.0,Peterborough United
+19,64.0,Peterborough United
+20,65.0,Peterborough United
+21,64.0,Peterborough United
+22,66.0,Peterborough United
+23,66.0,Peterborough United
+15,64.0,Huddersfield Town
+16,65.0,Huddersfield Town
+17,68.0,Huddersfield Town
+18,71.0,Huddersfield Town
+19,72.0,Huddersfield Town
+20,69.0,Huddersfield Town
+21,68.0,Huddersfield Town
+22,68.0,Huddersfield Town
+23,66.0,Huddersfield Town
+15,58.0,Mansfield Town
+16,61.0,Mansfield Town
+17,62.0,Mansfield Town
+18,63.0,Mansfield Town
+19,64.0,Mansfield Town
+20,62.0,Mansfield Town
+21,62.0,Mansfield Town
+22,61.0,Mansfield Town
+23,62.0,Mansfield Town
+15,57.0,Hartlepool United
+16,59.0,Hartlepool United
+17,59.0,Hartlepool United
+22,60.0,Hartlepool United
+23,60.0,Hartlepool United
+15,66.0,AFC Bournemouth
+16,71.0,AFC Bournemouth
+17,72.0,AFC Bournemouth
+18,73.0,AFC Bournemouth
+19,74.0,AFC Bournemouth
+20,74.0,AFC Bournemouth
+21,72.0,AFC Bournemouth
+22,72.0,AFC Bournemouth
+23,73.0,AFC Bournemouth
+15,57.0,Cambridge United
+16,61.0,Cambridge United
+17,62.0,Cambridge United
+18,60.0,Cambridge United
+19,59.0,Cambridge United
+20,59.0,Cambridge United
+21,61.0,Cambridge United
+22,62.0,Cambridge United
+23,63.0,Cambridge United
+15,60.0,Bury
+16,62.0,Bury
+17,63.0,Bury
+18,63.0,Bury
+19,62.0,Bury
+20,59.0,Bury
+22,60.0,Wrexham
+23,61.0,Wrexham
+15,58.0,York City
+16,59.0,York City
+15,60.0,Scunthorpe United
+16,61.0,Scunthorpe United
+17,64.0,Scunthorpe United
+18,63.0,Scunthorpe United
+19,65.0,Scunthorpe United
+20,62.0,Scunthorpe United
+21,60.0,Scunthorpe United
+22,60.0,Scunthorpe United
+15,59.0,Oxford United
+16,61.0,Oxford United
+17,64.0,Oxford United
+18,65.0,Oxford United
+19,65.0,Oxford United
+20,65.0,Oxford United
+21,64.0,Oxford United
+22,65.0,Oxford United
+23,65.0,Oxford United
+15,70.0,Hull City
+16,71.0,Hull City
+17,74.0,Hull City
+18,69.0,Hull City
+19,68.0,Hull City
+20,67.0,Hull City
+21,66.0,Hull City
+22,67.0,Hull City
+23,68.0,Hull City
+15,59.0,Southend United
+16,63.0,Southend United
+17,64.0,Southend United
+18,63.0,Southend United
+19,64.0,Southend United
+20,63.0,Southend United
+21,60.0,Southend United
+15,58.0,Rochdale
+16,61.0,Rochdale
+17,63.0,Rochdale
+18,63.0,Rochdale
+19,63.0,Rochdale
+20,62.0,Rochdale
+21,62.0,Rochdale
+22,61.0,Rochdale
+23,60.0,Rochdale
+15,64.0,Leyton Orient
+16,62.0,Leyton Orient
+17,60.0,Leyton Orient
+20,60.0,Leyton Orient
+21,61.0,Leyton Orient
+22,62.0,Leyton Orient
+23,62.0,Leyton Orient
+19,60.0,Macclesfield Town
+20,60.0,Macclesfield Town
+15,72.0,Swansea City
+16,74.0,Swansea City
+17,75.0,Swansea City
+18,73.0,Swansea City
+19,70.0,Swansea City
+20,69.0,Swansea City
+21,68.0,Swansea City
+22,67.0,Swansea City
+23,65.0,Swansea City
+15,68.0,Cardiff City
+16,68.0,Cardiff City
+17,69.0,Cardiff City
+18,70.0,Cardiff City
+19,71.0,Cardiff City
+20,71.0,Cardiff City
+21,69.0,Cardiff City
+22,67.0,Cardiff City
+23,67.0,Cardiff City
+16,60.0,Bristol Rovers
+17,62.0,Bristol Rovers
+18,63.0,Bristol Rovers
+19,61.0,Bristol Rovers
+20,63.0,Bristol Rovers
+21,63.0,Bristol Rovers
+22,62.0,Bristol Rovers
+23,63.0,Bristol Rovers
+17,68.0,Cádiz
+18,68.0,Cádiz
+19,68.0,Cádiz
+20,70.0,Cádiz
+21,70.0,Cádiz
+22,73.0,Cádiz
+23,72.0,Cádiz
+15,67.0,Tigres UANL
+16,71.0,Tigres UANL
+17,72.0,Tigres UANL
+18,72.0,Tigres UANL
+19,73.0,Tigres UANL
+20,74.0,Tigres UANL
+21,73.0,Tigres UANL
+22,73.0,Tigres UANL
+15,63.0,Excelsior
+16,66.0,Excelsior
+17,66.0,Excelsior
+18,66.0,Excelsior
+19,65.0,Excelsior
+23,65.0,Excelsior
+15,68.0,Lokeren
+16,66.0,Lokeren
+17,67.0,Lokeren
+18,67.0,Lokeren
+19,67.0,Lokeren
+17,65.0,AS Eupen
+18,66.0,AS Eupen
+19,67.0,AS Eupen
+20,68.0,AS Eupen
+21,68.0,AS Eupen
+22,66.0,AS Eupen
+23,64.0,AS Eupen
+22,68.0,Union Saint-Gilloise
+23,69.0,Union Saint-Gilloise
+19,61.0,Hartberg
+20,64.0,Hartberg
+21,64.0,Hartberg
+22,64.0,Hartberg
+23,64.0,Hartberg
+15,65.0,Ponferradina
+16,67.0,Ponferradina
+20,66.0,Ponferradina
+21,67.0,Ponferradina
+22,68.0,Ponferradina
+23,68.0,Ponferradina
+18,66.0,Lorca
+15,63.0,Avellino
+16,65.0,Avellino
+17,65.0,Avellino
+18,66.0,Avellino
+19,65.0,Avellino
+19,63.0,Wacker Innsbruck
+15,61.0,Sangju Sangmu
+17,65.0,Sangju Sangmu
+18,66.0,Sangju Sangmu
+19,61.0,Sangju Sangmu
+20,64.0,Sangju Sangmu
+21,64.0,Sangju Sangmu
+23,61.0,Sangju Sangmu
+18,62.0,Daegu
+19,61.0,Daegu
+20,61.0,Daegu
+21,62.0,Daegu
+22,58.0,Daegu
+23,62.0,Daegu
+17,68.0,Feirense
+18,67.0,Feirense
+19,68.0,Feirense
+15,69.0,Estoril
+16,70.0,Estoril
+17,68.0,Estoril
+18,68.0,Estoril
+22,68.0,Estoril
+23,68.5,Estoril
+15,72.0,TSG Hoffenheim
+16,74.0,TSG Hoffenheim
+17,76.0,TSG Hoffenheim
+18,75.0,TSG Hoffenheim
+19,76.0,TSG Hoffenheim
+20,75.0,TSG Hoffenheim
+21,74.0,TSG Hoffenheim
+22,74.0,TSG Hoffenheim
+23,74.0,TSG Hoffenheim
+15,67.0,Paderborn
+16,67.0,Paderborn
+18,63.0,Paderborn
+19,67.0,Paderborn
+20,68.0,Paderborn
+21,68.0,Paderborn
+22,68.0,Paderborn
+23,68.0,Paderborn
+18,68.0,Portimonense
+19,69.0,Portimonense
+20,68.0,Portimonense
+21,68.0,Portimonense
+22,68.0,Portimonense
+23,67.0,Portimonense
+16,60.0,Lugano
+17,60.0,Lugano
+18,62.0,Lugano
+19,63.0,Lugano
+20,65.0,Lugano
+21,65.0,Lugano
+22,65.0,Lugano
+23,64.0,Lugano
+22,66.0,Burgos
+23,67.0,Burgos
+17,62.0,Lyngby
+18,63.0,Lyngby
+20,61.0,Lyngby
+21,62.0,Lyngby
+23,62.0,Lyngby
+15,66.0,Zulte-Waregem
+16,68.0,Zulte-Waregem
+17,69.0,Zulte-Waregem
+18,69.0,Zulte-Waregem
+19,68.0,Zulte-Waregem
+20,69.0,Zulte-Waregem
+21,67.0,Zulte-Waregem
+22,68.0,Zulte-Waregem
+23,65.0,Zulte-Waregem
+15,59.0,Rheindorf Altach
+16,63.0,Rheindorf Altach
+17,63.0,Rheindorf Altach
+18,65.0,Rheindorf Altach
+19,64.0,Rheindorf Altach
+20,64.0,Rheindorf Altach
+21,64.0,Rheindorf Altach
+22,63.0,Rheindorf Altach
+23,63.0,Rheindorf Altach
+18,67.0,Cultural Leonesa
+15,57.0,Burton Albion
+16,61.0,Burton Albion
+17,66.0,Burton Albion
+18,66.0,Burton Albion
+19,62.0,Burton Albion
+20,62.0,Burton Albion
+21,62.0,Burton Albion
+22,63.0,Burton Albion
+23,63.0,Burton Albion
+16,67.0,Gimnàstic Tarragona
+17,68.0,Gimnàstic Tarragona
+18,68.0,Gimnàstic Tarragona
+19,67.0,Gimnàstic Tarragona
+15,64.0,Sabadell
+21,65.0,Sabadell
+15,68.0,Universidad Chile
+16,70.0,Universidad Chile
+17,70.0,Universidad Chile
+18,70.0,Universidad Chile
+19,69.0,Universidad Chile
+20,67.0,Universidad Chile
+20,64.0,Wattens
+21,64.0,Wattens
+22,63.0,Wattens
+23,63.0,Wattens
+15,59.0,Tranmere Rovers
+19,60.0,Tranmere Rovers
+20,63.0,Tranmere Rovers
+21,62.0,Tranmere Rovers
+22,62.0,Tranmere Rovers
+23,60.0,Tranmere Rovers
+15,65.0,Kortrijk
+16,66.0,Kortrijk
+17,69.0,Kortrijk
+18,67.0,Kortrijk
+19,68.0,Kortrijk
+20,68.0,Kortrijk
+21,67.0,Kortrijk
+22,67.0,Kortrijk
+23,67.0,Kortrijk
+16,65.0,OH Leuven
+21,67.0,OH Leuven
+22,68.0,OH Leuven
+23,67.0,OH Leuven
+22,66.0,APOEL
+23,66.5,APOEL
+17,61.0,HJK
+18,60.0,HJK
+19,60.0,HJK
+20,62.0,HJK
+21,63.0,HJK
+22,62.0,HJK
+23,64.0,HJK
+15,71.0,FC Augsburg
+16,72.0,FC Augsburg
+17,73.0,FC Augsburg
+18,72.0,FC Augsburg
+19,71.0,FC Augsburg
+20,72.0,FC Augsburg
+21,71.0,FC Augsburg
+22,71.0,FC Augsburg
+23,73.0,FC Augsburg
+18,62.0,Rot-Weiß Erfurt
+15,63.0,FC Dordrecht
+19,64.0,FC Emmen
+20,66.0,FC Emmen
+21,65.0,FC Emmen
+23,64.0,FC Emmen
+15,64.0,Go Ahead Eagles
+17,65.0,Go Ahead Eagles
+22,64.0,Go Ahead Eagles
+23,65.0,Go Ahead Eagles
+15,65.0,Heracles Almelo
+16,67.0,Heracles Almelo
+17,68.0,Heracles Almelo
+18,68.0,Heracles Almelo
+19,67.0,Heracles Almelo
+20,65.0,Heracles Almelo
+21,64.0,Heracles Almelo
+22,66.0,Heracles Almelo
+17,65.0,Sparta Rotterdam
+18,66.0,Sparta Rotterdam
+20,66.0,Sparta Rotterdam
+21,66.0,Sparta Rotterdam
+22,66.0,Sparta Rotterdam
+23,65.0,Sparta Rotterdam
+18,65.0,VVV-Venlo
+19,66.0,VVV-Venlo
+20,65.0,VVV-Venlo
+21,65.0,VVV-Venlo
+15,65.0,Penafiel
+20,64.0,Dinamo Bucureşti
+21,64.0,Dinamo Bucureşti
+22,63.0,Dinamo Bucureşti
+21,62.0,Argeş
+22,63.0,Argeş
+23,64.0,Argeş
+20,68.0,FCSB
+21,67.0,FCSB
+22,67.0,FCSB
+23,66.0,FCSB
+16,67.0,Krylya Sovetov
+17,67.0,Krylya Sovetov
+15,73.0,Lokomotiv Moskva
+16,73.0,Lokomotiv Moskva
+17,74.0,Lokomotiv Moskva
+18,73.0,Lokomotiv Moskva
+19,74.0,Lokomotiv Moskva
+20,71.0,Lokomotiv Moskva
+21,71.0,Lokomotiv Moskva
+22,70.0,Lokomotiv Moskva
+16,64.0,Anzhi
+17,66.0,Anzhi
+18,67.0,Anzhi
+15,71.0,Spartak Moskva
+16,70.0,Spartak Moskva
+17,74.0,Spartak Moskva
+18,75.0,Spartak Moskva
+19,74.0,Spartak Moskva
+20,72.0,Spartak Moskva
+21,72.0,Spartak Moskva
+22,71.0,Spartak Moskva
+15,63.0,Torpedo Moskva
+15,75.0,Zenit
+16,75.0,Zenit
+17,75.0,Zenit
+18,75.0,Zenit
+15,61.0,St. Johnstone
+16,60.0,St. Johnstone
+17,63.0,St. Johnstone
+18,63.0,St. Johnstone
+19,64.0,St. Johnstone
+20,64.0,St. Johnstone
+21,64.0,St. Johnstone
+22,63.0,St. Johnstone
+23,63.0,St. Johnstone
+15,58.0,St. Mirren
+19,62.0,St. Mirren
+20,62.0,St. Mirren
+21,64.0,St. Mirren
+22,64.0,St. Mirren
+23,64.0,St. Mirren
+15,64.0,Alcorcón
+16,65.0,Alcorcón
+17,68.0,Alcorcón
+18,68.0,Alcorcón
+19,68.0,Alcorcón
+20,68.0,Alcorcón
+21,65.0,Alcorcón
+22,64.0,Alcorcón
+21,65.0,FC Cartagena
+22,68.0,FC Cartagena
+23,67.0,FC Cartagena
+21,66.0,Castellón
+15,62.0,Leganés
+16,67.0,Leganés
+17,73.0,Leganés
+18,74.0,Leganés
+19,73.0,Leganés
+20,74.0,Leganés
+21,70.0,Leganés
+22,69.0,Leganés
+23,67.0,Leganés
+22,67.0,Altay
+19,69.0,Ankaragücü
+20,68.0,Ankaragücü
+21,67.0,Ankaragücü
+23,67.0,Ankaragücü
+16,68.0,Osmanlıspor
+17,72.0,Osmanlıspor
+18,71.0,Osmanlıspor
+15,66.0,İstanbul Başakşehir
+16,68.0,İstanbul Başakşehir
+17,73.0,İstanbul Başakşehir
+18,74.0,İstanbul Başakşehir
+19,73.0,İstanbul Başakşehir
+20,73.0,İstanbul Başakşehir
+21,72.0,İstanbul Başakşehir
+22,72.0,İstanbul Başakşehir
+23,71.0,İstanbul Başakşehir
+22,68.0,Adana Demirspor
+23,69.0,Adana Demirspor
+16,67.0,Kayserispor
+17,69.0,Kayserispor
+18,70.0,Kayserispor
+19,71.0,Kayserispor
+20,67.0,Kayserispor
+21,67.0,Kayserispor
+22,68.0,Kayserispor
+23,67.0,Kayserispor
+15,63.0,Gaziantepspor
+16,66.0,Gaziantepspor
+17,68.0,Gaziantepspor
+15,63.0,Gençlerbirliği
+16,68.0,Gençlerbirliği
+17,68.0,Gençlerbirliği
+18,68.0,Gençlerbirliği
+20,68.0,Gençlerbirliği
+21,66.0,Gençlerbirliği
+18,70.0,Göztepe
+19,71.0,Göztepe
+20,69.0,Göztepe
+21,68.0,Göztepe
+22,68.0,Göztepe
+21,66.0,Hatayspor
+22,68.0,Hatayspor
+23,67.0,Hatayspor
+15,67.0,Konyaspor
+16,69.0,Konyaspor
+17,68.0,Konyaspor
+18,69.0,Konyaspor
+19,69.0,Konyaspor
+20,69.0,Konyaspor
+21,68.0,Konyaspor
+22,67.0,Konyaspor
+23,67.0,Konyaspor
+15,64.0,Mersin İdman yurdu
+16,65.0,Mersin İdman yurdu
+15,66.0,Rizespor
+16,66.0,Rizespor
+17,67.0,Rizespor
+19,68.0,Rizespor
+20,68.0,Rizespor
+21,69.0,Rizespor
+22,69.0,Rizespor
+15,67.0,Sivasspor
+16,68.0,Sivasspor
+18,69.0,Sivasspor
+19,69.0,Sivasspor
+20,69.0,Sivasspor
+21,70.0,Sivasspor
+22,69.0,Sivasspor
+23,68.0,Sivasspor
+19,73.0,Dynamo Kyiv
+20,73.0,Dynamo Kyiv
+21,73.0,Dynamo Kyiv
+22,73.0,Dynamo Kyiv
+23,71.0,Dynamo Kyiv
+15,74.0,Shakhtar Donetsk
+16,74.0,Shakhtar Donetsk
+17,75.0,Shakhtar Donetsk
+18,75.0,Shakhtar Donetsk
+19,72.0,Shakhtar Donetsk
+20,72.0,Shakhtar Donetsk
+21,72.0,Shakhtar Donetsk
+22,73.0,Shakhtar Donetsk
+23,69.0,Shakhtar Donetsk
+15,67.0,Estudiantes
+16,64.0,Estudiantes
+17,69.0,Estudiantes
+18,70.0,Estudiantes
+19,66.0,Estudiantes
+20,68.0,Estudiantes
+21,68.0,Estudiantes
+22,69.0,Estudiantes
+23,70.0,Estudiantes
+15,62.0,Gimnasia La Plata
+16,64.0,Gimnasia La Plata
+17,67.0,Gimnasia La Plata
+18,66.0,Gimnasia La Plata
+19,66.0,Gimnasia La Plata
+20,68.0,Gimnasia La Plata
+21,66.0,Gimnasia La Plata
+22,67.0,Gimnasia La Plata
+23,67.0,Gimnasia La Plata
+15,69.0,Racing Club
+16,70.0,Racing Club
+17,71.0,Racing Club
+18,71.0,Racing Club
+19,73.0,Racing Club
+20,73.0,Racing Club
+21,72.0,Racing Club
+22,71.0,Racing Club
+23,72.0,Racing Club
+15,63.0,Vélez Sarsfield
+16,61.0,Vélez Sarsfield
+17,64.0,Vélez Sarsfield
+18,64.0,Vélez Sarsfield
+19,68.0,Vélez Sarsfield
+20,71.0,Vélez Sarsfield
+21,72.0,Vélez Sarsfield
+22,71.0,Vélez Sarsfield
+23,71.0,Vélez Sarsfield
+15,64.0,Audax Italiano
+16,65.0,Audax Italiano
+17,65.0,Audax Italiano
+18,68.0,Audax Italiano
+19,64.0,Audax Italiano
+20,64.0,Audax Italiano
+21,62.0,Audax Italiano
+18,66.0,América de Cali
+19,65.0,América de Cali
+20,67.0,América de Cali
+21,66.0,América de Cali
+22,65.0,América de Cali
+23,68.0,América de Cali
+15,68.0,Atlético Nacional
+16,69.0,Atlético Nacional
+17,70.0,Atlético Nacional
+18,70.0,Atlético Nacional
+19,68.0,Atlético Nacional
+20,68.0,Atlético Nacional
+21,67.0,Atlético Nacional
+22,68.0,Atlético Nacional
+23,68.0,Atlético Nacional
+15,66.0,Junior
+16,67.0,Junior
+17,69.0,Junior
+18,69.0,Junior
+19,69.0,Junior
+20,69.0,Junior
+21,69.0,Junior
+22,69.0,Junior
+23,69.0,Junior
+15,65.0,Deportivo Cali
+16,64.0,Deportivo Cali
+17,68.0,Deportivo Cali
+18,68.0,Deportivo Cali
+19,67.0,Deportivo Cali
+20,65.0,Deportivo Cali
+21,63.0,Deportivo Cali
+22,63.0,Deportivo Cali
+23,65.0,Deportivo Cali
+15,66.0,Independiente Medellín
+16,68.0,Independiente Medellín
+17,69.0,Independiente Medellín
+18,67.0,Independiente Medellín
+19,65.0,Independiente Medellín
+20,64.0,Independiente Medellín
+21,61.0,Independiente Medellín
+23,69.0,Independiente Medellín
+15,65.0,Santa Fe
+16,66.0,Santa Fe
+17,69.0,Santa Fe
+18,69.0,Santa Fe
+19,68.0,Santa Fe
+20,66.0,Santa Fe
+22,63.0,Santa Fe
+15,66.0,Millonarios
+16,68.0,Millonarios
+17,68.0,Millonarios
+18,67.0,Millonarios
+19,66.0,Millonarios
+20,66.0,Millonarios
+21,66.0,Millonarios
+15,65.0,Once Caldas
+16,66.0,Once Caldas
+17,66.0,Once Caldas
+18,65.0,Once Caldas
+19,66.0,Once Caldas
+20,66.0,Once Caldas
+21,69.0,Olimpia
+22,67.0,Olimpia
+23,65.0,Olimpia
+21,67.0,Peñarol
+22,65.0,Peñarol
+23,66.0,Peñarol
+15,64.0,Vancouver Whitecaps
+16,65.0,Vancouver Whitecaps
+17,66.0,Vancouver Whitecaps
+18,67.0,Vancouver Whitecaps
+19,67.0,Vancouver Whitecaps
+20,66.0,Vancouver Whitecaps
+21,65.0,Vancouver Whitecaps
+22,66.0,Vancouver Whitecaps
+23,65.0,Vancouver Whitecaps
+15,66.0,Atlas
+16,67.0,Atlas
+17,66.0,Atlas
+18,67.0,Atlas
+19,65.0,Atlas
+20,67.0,Atlas
+21,68.0,Atlas
+22,69.0,Atlas
+17,67.0,Necaxa
+18,67.0,Necaxa
+19,65.0,Necaxa
+20,66.0,Necaxa
+21,66.0,Necaxa
+22,67.0,Necaxa
+17,61.0,Júbilo Iwata
+18,61.0,Júbilo Iwata
+19,62.0,Júbilo Iwata
+20,62.0,Júbilo Iwata
+17,63.0,Kashiwa Reysol
+18,63.0,Kashiwa Reysol
+19,62.0,Kashiwa Reysol
+21,64.0,Kashiwa Reysol
+22,64.0,Kashiwa Reysol
+17,63.0,Vissel Kobe
+18,64.0,Vissel Kobe
+19,63.0,Vissel Kobe
+20,65.0,Vissel Kobe
+21,65.0,Vissel Kobe
+22,65.0,Vissel Kobe
+17,65.0,Kashima Antlers
+18,67.0,Kashima Antlers
+19,66.0,Kashima Antlers
+20,66.0,Kashima Antlers
+21,67.0,Kashima Antlers
+22,67.0,Kashima Antlers
+18,64.0,Cerezo Osaka
+19,64.0,Cerezo Osaka
+20,66.0,Cerezo Osaka
+21,66.0,Cerezo Osaka
+22,65.0,Cerezo Osaka
+18,64.0,Shimizu S-Pulse
+19,63.0,Shimizu S-Pulse
+20,65.0,Shimizu S-Pulse
+21,65.0,Shimizu S-Pulse
+22,65.0,Shimizu S-Pulse
+17,64.0,Tokyo
+18,64.0,Tokyo
+19,64.0,Tokyo
+20,63.0,Tokyo
+21,65.0,Tokyo
+22,66.0,Tokyo
+17,60.0,Yokohama F. Marinos
+18,63.0,Yokohama F. Marinos
+19,64.0,Yokohama F. Marinos
+20,66.0,Yokohama F. Marinos
+21,68.0,Yokohama F. Marinos
+22,68.0,Yokohama F. Marinos
+15,64.0,Girona
+16,66.0,Girona
+17,69.0,Girona
+18,74.0,Girona
+19,74.0,Girona
+20,72.0,Girona
+21,68.0,Girona
+22,69.0,Girona
+23,71.0,Girona
+20,66.0,Fuenlabrada
+21,67.0,Fuenlabrada
+22,65.0,Fuenlabrada
+19,66.0,Rayo Majadahonda
+15,63.0,Mirandés
+16,65.0,Mirandés
+17,67.0,Mirandés
+20,66.0,Mirandés
+21,66.0,Mirandés
+22,64.0,Mirandés
+23,65.0,Mirandés
+22,64.0,SSC Farul
+23,64.0,SSC Farul
+23,63.0,Petrolul 52
+15,69.0,Kuban' Krasnodar
+16,64.0,Kuban' Krasnodar
+15,68.0,Independiente
+16,70.0,Independiente
+17,71.0,Independiente
+18,73.0,Independiente
+19,73.0,Independiente
+20,73.5,Independiente
+21,69.0,Independiente
+22,70.0,Independiente
+23,70.0,Independiente
+18,65.0,SKA Khabarovsk
+15,62.0,Mordovia Saransk
+16,64.0,Mordovia Saransk
+15,66.0,Akhmat Grozny
+16,68.0,Akhmat Grozny
+17,70.0,Akhmat Grozny
+18,69.0,Akhmat Grozny
+15,65.0,Santos Laguna
+16,68.0,Santos Laguna
+17,68.0,Santos Laguna
+18,69.0,Santos Laguna
+19,70.0,Santos Laguna
+20,70.0,Santos Laguna
+21,68.0,Santos Laguna
+22,69.0,Santos Laguna
+15,64.0,Veracruz
+16,65.0,Veracruz
+17,68.0,Veracruz
+18,67.0,Veracruz
+19,66.0,Veracruz
+20,63.0,Veracruz
+15,67.0,Pachuca
+16,68.0,Pachuca
+17,69.0,Pachuca
+18,71.0,Pachuca
+19,69.0,Pachuca
+20,68.0,Pachuca
+21,67.0,Pachuca
+22,68.0,Pachuca
+15,65.0,Querétaro
+16,68.0,Querétaro
+17,68.0,Querétaro
+18,68.0,Querétaro
+19,67.0,Querétaro
+20,66.0,Querétaro
+21,65.0,Querétaro
+22,66.0,Querétaro
+15,65.0,Puebla
+16,66.0,Puebla
+17,66.0,Puebla
+18,67.0,Puebla
+19,67.0,Puebla
+20,68.0,Puebla
+21,66.0,Puebla
+22,66.0,Puebla
+18,63.0,Fortuna Köln
+19,63.0,Fortuna Köln
+15,64.0,Sandhausen
+16,66.0,Sandhausen
+17,67.0,Sandhausen
+18,67.0,Sandhausen
+19,68.0,Sandhausen
+20,68.0,Sandhausen
+21,67.0,Sandhausen
+22,67.0,Sandhausen
+23,67.5,Sandhausen
+23,61.0,Bayreuth
+17,67.0,Würzburger Kickers
+18,65.0,Würzburger Kickers
+19,64.0,Würzburger Kickers
+20,62.0,Würzburger Kickers
+21,65.0,Würzburger Kickers
+22,63.0,Würzburger Kickers
+15,63.0,Rubin Kazan
+16,68.0,Rubin Kazan
+17,72.0,Rubin Kazan
+18,72.0,Rubin Kazan
+15,65.0,Rostov
+16,66.0,Rostov
+17,69.0,Rostov
+18,68.0,Rostov
+17,62.0,Tom' Tomsk
+15,63.0,Amkar Perm
+16,64.0,Amkar Perm
+17,66.0,Amkar Perm
+18,65.0,Amkar Perm
+15,56.0,Accrington Stanley
+16,57.0,Accrington Stanley
+17,60.0,Accrington Stanley
+18,58.0,Accrington Stanley
+19,61.0,Accrington Stanley
+20,61.0,Accrington Stanley
+21,62.0,Accrington Stanley
+22,61.0,Accrington Stanley
+23,61.0,Accrington Stanley
+15,61.0,Gazélec Ajaccio
+16,67.0,Gazélec Ajaccio
+17,67.0,Gazélec Ajaccio
+18,64.0,Gazélec Ajaccio
+19,63.0,Gazélec Ajaccio
+21,64.0,Pau
+22,64.0,Pau
+23,63.0,Pau
+15,61.0,Tours
+16,63.0,Tours
+17,65.0,Tours
+18,65.0,Tours
+15,66.0,St. Pauli
+16,66.0,St. Pauli
+17,68.0,St. Pauli
+18,68.0,St. Pauli
+19,68.0,St. Pauli
+20,67.0,St. Pauli
+21,67.0,St. Pauli
+22,67.0,St. Pauli
+23,67.0,St. Pauli
+15,65.0,Catania
+16,65.0,Salernitana
+17,66.0,Salernitana
+18,67.0,Salernitana
+19,68.0,Salernitana
+20,67.0,Salernitana
+22,67.0,Salernitana
+23,71.0,Salernitana
+15,74.0,Fiorentina
+16,75.0,Fiorentina
+17,76.0,Fiorentina
+18,75.0,Fiorentina
+19,75.0,Fiorentina
+20,74.0,Fiorentina
+21,75.0,Fiorentina
+22,75.0,Fiorentina
+23,76.0,Fiorentina
+15,61.0,Atlético Rafaela
+16,62.0,Atlético Rafaela
+17,64.0,Atlético Rafaela
+15,64.0,Arsenal de Sarandi
+16,64.0,Arsenal de Sarandi
+17,65.0,Arsenal de Sarandi
+18,64.0,Arsenal de Sarandi
+20,68.0,Arsenal de Sarandi
+21,64.0,Arsenal de Sarandi
+22,65.0,Arsenal de Sarandi
+23,66.0,Arsenal de Sarandi
+15,67.0,Lanús
+16,68.0,Lanús
+17,69.0,Lanús
+18,69.0,Lanús
+19,69.0,Lanús
+20,71.0,Lanús
+21,68.0,Lanús
+22,70.0,Lanús
+23,69.0,Lanús
+15,67.0,Newell's Old Boys
+16,66.0,Newell's Old Boys
+17,67.0,Newell's Old Boys
+18,65.0,Newell's Old Boys
+19,67.0,Newell's Old Boys
+20,69.0,Newell's Old Boys
+21,68.0,Newell's Old Boys
+22,66.0,Newell's Old Boys
+23,67.0,Newell's Old Boys
+15,64.0,Olimpo
+16,64.0,Olimpo
+17,64.0,Olimpo
+18,64.0,Olimpo
+17,67.0,Adanaspor
+15,63.0,Banfield
+16,59.0,Banfield
+17,65.0,Banfield
+18,64.0,Banfield
+19,66.0,Banfield
+20,70.0,Banfield
+21,67.0,Banfield
+22,66.0,Banfield
+23,67.0,Banfield
+18,61.0,Chacarita Juniors
+16,63.0,Colón
+17,66.0,Colón
+18,69.0,Colón
+19,70.0,Colón
+20,71.0,Colón
+21,69.0,Colón
+22,70.0,Colón
+23,70.0,Colón
+15,64.0,Valenciennes
+16,63.0,Valenciennes
+17,65.0,Valenciennes
+18,65.0,Valenciennes
+19,65.0,Valenciennes
+20,65.0,Valenciennes
+21,66.0,Valenciennes
+22,65.0,Valenciennes
+23,64.0,Valenciennes
+19,71.0,Viktoria Plzeň
+20,72.0,Viktoria Plzeň
+21,72.0,Viktoria Plzeň
+22,72.0,Viktoria Plzeň
+23,72.0,Viktoria Plzeň
+18,63.0,Hallescher FC
+19,64.0,Hallescher FC
+20,64.0,Hallescher FC
+21,64.0,Hallescher FC
+22,64.0,Hallescher FC
+23,63.0,Hallescher FC
+15,66.0,Eintracht Braunschweig
+16,67.0,Eintracht Braunschweig
+17,69.0,Eintracht Braunschweig
+18,68.0,Eintracht Braunschweig
+19,63.0,Eintracht Braunschweig
+20,64.0,Eintracht Braunschweig
+21,66.0,Eintracht Braunschweig
+22,64.0,Eintracht Braunschweig
+23,67.0,Eintracht Braunschweig
+21,62.0,Verl
+22,62.0,Verl
+23,62.0,Verl
+15,65.0,Darmstadt 98
+16,69.0,Darmstadt 98
+17,70.0,Darmstadt 98
+18,68.0,Darmstadt 98
+19,68.0,Darmstadt 98
+20,68.0,Darmstadt 98
+21,67.0,Darmstadt 98
+22,67.0,Darmstadt 98
+23,67.0,Darmstadt 98
+20,63.0,Waldhof Mannheim
+21,64.0,Waldhof Mannheim
+22,64.0,Waldhof Mannheim
+23,65.0,Waldhof Mannheim
+15,64.0,Quilmes
+16,63.0,Quilmes
+17,63.0,Quilmes
+15,71.0,Genoa
+16,72.0,Genoa
+17,73.0,Genoa
+18,73.0,Genoa
+19,73.0,Genoa
+20,73.0,Genoa
+21,72.0,Genoa
+22,71.0,Genoa
+23,71.0,Genoa
+15,59.0,Górnik Łęczna
+16,60.0,Górnik Łęczna
+17,61.0,Górnik Łęczna
+22,62.0,Górnik Łęczna
+15,63.0,Dijon
+16,65.0,Dijon
+17,70.0,Dijon
+18,71.0,Dijon
+19,71.0,Dijon
+20,70.0,Dijon
+21,69.0,Dijon
+22,67.0,Dijon
+23,67.0,Dijon
+16,63.0,Bourg-en-Bresse
+17,64.0,Bourg-en-Bresse
+18,64.0,Bourg-en-Bresse
+15,66.0,Rosario Central
+16,69.0,Rosario Central
+17,68.0,Rosario Central
+18,67.0,Rosario Central
+19,68.0,Rosario Central
+20,70.0,Rosario Central
+21,64.0,Rosario Central
+22,66.0,Rosario Central
+23,68.0,Rosario Central
+17,65.0,Patronato
+18,65.0,Patronato
+19,67.0,Patronato
+20,67.0,Patronato
+21,64.0,Patronato
+22,65.0,Patronato
+23,66.0,Patronato
+23,63.0,VfB Oldenburg
+18,65.0,Magdeburg
+19,67.0,Magdeburg
+20,64.0,Magdeburg
+21,63.0,Magdeburg
+22,63.0,Magdeburg
+23,65.0,Magdeburg
+18,62.0,Carl Zeiss Jena
+19,63.0,Carl Zeiss Jena
+20,62.0,Carl Zeiss Jena
+18,63.0,Zwickau
+19,63.0,Zwickau
+20,64.0,Zwickau
+21,62.0,Zwickau
+22,63.0,Zwickau
+23,63.0,Zwickau
+15,64.0,FSV Frankfurt
+16,65.0,FSV Frankfurt
+18,61.0,Meppen
+19,63.0,Meppen
+20,63.0,Meppen
+21,63.0,Meppen
+22,63.0,Meppen
+23,63.0,Meppen
+15,67.0,Fortuna Düsseldorf
+16,69.0,Fortuna Düsseldorf
+17,68.0,Fortuna Düsseldorf
+18,69.0,Fortuna Düsseldorf
+19,72.0,Fortuna Düsseldorf
+20,72.0,Fortuna Düsseldorf
+21,69.0,Fortuna Düsseldorf
+22,69.0,Fortuna Düsseldorf
+23,68.0,Fortuna Düsseldorf
+20,62.0,Viktoria Köln
+21,64.0,Viktoria Köln
+22,63.0,Viktoria Köln
+23,64.0,Viktoria Köln
+22,61.0,Borussia Dortmund II
+23,62.0,Borussia Dortmund II
+22,62.0,Havelse
+20,61.0,Bayern München II
+21,61.0,Bayern München II
+22,59.0,Freiburg II
+23,60.0,Freiburg II
+18,61.0,Werder Bremen II
+18,63.0,Sportfreunde Lotte
+19,63.0,Sportfreunde Lotte
+16,67.0,Athletic Club II
+15,62.0,Barcelona II
+18,67.0,Barcelona II
+22,65.0,Real Sociedad II
+17,67.0,Sevilla II
+18,66.0,Sevilla II
+15,65.0,Mechelen
+16,67.0,Mechelen
+17,68.0,Mechelen
+18,68.0,Mechelen
+20,68.0,Mechelen
+21,67.0,Mechelen
+22,67.0,Mechelen
+23,68.0,Mechelen
+15,61.0,Crotone
+16,64.0,Crotone
+17,69.0,Crotone
+18,69.0,Crotone
+19,67.0,Crotone
+20,66.0,Crotone
+21,69.0,Crotone
+22,64.0,Crotone
+17,64.0,Pisa
+20,66.0,Pisa
+23,67.0,Pisa
+15,63.0,Spezia
+16,66.0,Spezia
+17,66.0,Spezia
+18,67.0,Spezia
+19,66.0,Spezia
+20,66.0,Spezia
+21,68.0,Spezia
+22,69.0,Spezia
+23,71.0,Spezia
+15,61.0,Bełchatów
+15,60.0,Jagiellonia Białystok
+16,64.0,Jagiellonia Białystok
+17,65.0,Jagiellonia Białystok
+18,67.0,Jagiellonia Białystok
+19,65.0,Jagiellonia Białystok
+20,64.0,Jagiellonia Białystok
+21,64.0,Jagiellonia Białystok
+22,64.0,Jagiellonia Białystok
+23,64.0,Jagiellonia Białystok
+15,63.0,Pogoń Szczecin
+16,64.0,Pogoń Szczecin
+17,64.0,Pogoń Szczecin
+18,65.0,Pogoń Szczecin
+19,65.0,Pogoń Szczecin
+20,65.0,Pogoń Szczecin
+21,66.0,Pogoń Szczecin
+22,66.0,Pogoń Szczecin
+23,66.0,Pogoń Szczecin
+15,60.0,Cracovia Kraków
+16,62.0,Cracovia Kraków
+17,64.0,Cracovia Kraków
+18,63.0,Cracovia Kraków
+19,62.0,Cracovia Kraków
+20,65.0,Cracovia Kraków
+21,64.0,Cracovia Kraków
+22,64.0,Cracovia Kraków
+23,64.0,Cracovia Kraków
+16,62.0,Zagłębie Lubin
+17,66.0,Zagłębie Lubin
+18,65.0,Zagłębie Lubin
+19,64.0,Zagłębie Lubin
+20,63.0,Zagłębie Lubin
+21,63.0,Zagłębie Lubin
+22,64.0,Zagłębie Lubin
+23,64.0,Zagłębie Lubin
+21,62.0,UTA Arad
+22,64.0,UTA Arad
+23,64.0,UTA Arad
+23,63.0,Universitatea Cluj
+20,63.0,Botoşani
+21,64.0,Botoşani
+22,63.0,Botoşani
+23,62.0,Botoşani
+15,61.0,Arsenal Tula
+17,65.0,Arsenal Tula
+18,67.0,Arsenal Tula
+15,59.0,Incheon United
+16,61.0,Incheon United
+17,64.0,Incheon United
+18,63.0,Incheon United
+19,63.0,Incheon United
+20,62.0,Incheon United
+21,62.0,Incheon United
+22,63.0,Incheon United
+23,63.0,Incheon United
+15,64.0,Sion
+16,67.0,Sion
+17,66.0,Sion
+18,65.0,Sion
+19,65.0,Sion
+20,63.0,Sion
+21,65.0,Sion
+22,65.0,Sion
+23,65.0,Sion
+20,69.0,Gaziantep F.K.
+21,68.0,Gaziantep F.K.
+22,69.0,Gaziantep F.K.
+23,67.0,Gaziantep F.K.
+15,64.0,León
+16,68.0,León
+17,69.0,León
+18,69.0,León
+19,69.0,León
+20,69.0,León
+21,69.0,León
+22,70.0,León
+22,60.0,Sutton United
+23,61.0,Sutton United
+20,63.0,CSM Iaşi
+21,62.0,CSM Iaşi
+19,66.5,CFR Cluj
+20,69.0,CFR Cluj
+21,68.0,CFR Cluj
+22,68.0,CFR Cluj
+23,67.0,CFR Cluj
+15,62.0,Ufa
+16,64.0,Ufa
+17,66.0,Ufa
+18,68.0,Ufa
+16,67.0,Real Oviedo
+17,69.0,Real Oviedo
+18,68.0,Real Oviedo
+19,69.0,Real Oviedo
+20,68.0,Real Oviedo
+21,67.0,Real Oviedo
+22,68.0,Real Oviedo
+23,67.0,Real Oviedo
+15,65.0,Lugo
+16,67.0,Lugo
+17,67.0,Lugo
+18,67.0,Lugo
+19,67.0,Lugo
+20,66.0,Lugo
+21,65.0,Lugo
+22,66.0,Lugo
+23,65.0,Lugo
+15,70.0,Granada
+16,73.0,Granada
+17,72.0,Granada
+18,70.0,Granada
+19,69.0,Granada
+20,72.0,Granada
+21,75.0,Granada
+22,75.0,Granada
+23,71.0,Granada
+16,65.0,Huesca
+17,68.0,Huesca
+18,68.0,Huesca
+19,71.0,Huesca
+20,70.0,Huesca
+21,72.0,Huesca
+22,68.0,Huesca
+23,66.0,Huesca
+17,69.0,Reus Deportiu
+18,68.0,Reus Deportiu
+19,62.0,Reus Deportiu
+15,60.0,Crawley Town
+16,59.0,Crawley Town
+17,61.0,Crawley Town
+18,61.0,Crawley Town
+19,61.0,Crawley Town
+20,61.0,Crawley Town
+21,60.0,Crawley Town
+22,61.0,Crawley Town
+23,60.0,Crawley Town
+23,63.0,Villarreal II
+18,64.0,Foggia
+19,66.0,Foggia
+19,66.0,Padova
+15,65.0,Waasland-Beveren
+16,64.0,Waasland-Beveren
+17,66.0,Waasland-Beveren
+18,66.0,Waasland-Beveren
+19,65.0,Waasland-Beveren
+20,66.0,Waasland-Beveren
+21,66.0,Waasland-Beveren
+15,66.0,Cesena
+16,67.0,Cesena
+17,67.0,Cesena
+18,65.0,Cesena
+19,60.0,Cesena
+15,67.0,Kaizer Chiefs
+16,67.0,Kaizer Chiefs
+17,68.0,Kaizer Chiefs
+18,67.0,Kaizer Chiefs
+19,67.0,Kaizer Chiefs
+20,68.0,Kaizer Chiefs
+21,67.0,Kaizer Chiefs
+22,68.0,Kaizer Chiefs
+23,66.0,Kaizer Chiefs
+15,68.0,Orlando Pirates
+16,69.0,Orlando Pirates
+17,66.0,Orlando Pirates
+18,66.0,Orlando Pirates
+19,67.0,Orlando Pirates
+20,66.0,Orlando Pirates
+21,67.0,Orlando Pirates
+22,67.0,Orlando Pirates
+23,68.0,Orlando Pirates
+23,69.0,Mamelodi Sundowns
+19,62.0,Shanghai Shenhua
+20,62.0,Shanghai Shenhua
+21,63.0,Shanghai Shenhua
+22,62.0,Shanghai Shenhua
+23,62.0,Shanghai Shenhua
+21,61.0,Blooming
+21,65.0,Bolívar
+22,65.0,Bolívar
+22,65.0,The Strongest
+23,65.0,The Strongest
+21,61.0,Oriente Petrolero
+23,63.0,Oriente Petrolero
+21,64.0,Wilstermann
+22,64.0,Wilstermann
+23,65.0,Wilstermann
+15,65.0,Universidad Católica
+16,67.0,Universidad Católica
+17,70.0,Universidad Católica
+18,69.0,Universidad Católica
+19,69.0,Universidad Católica
+20,71.0,Universidad Católica
+21,68.0,Universidad Católica
+22,68.0,Universidad Católica
+23,68.0,Universidad Católica
+15,62.0,Santiago Wanderers
+16,64.0,Santiago Wanderers
+17,64.0,Santiago Wanderers
+18,66.0,Santiago Wanderers
+15,64.0,Unión Española
+16,65.0,Unión Española
+17,66.0,Unión Española
+18,70.0,Unión Española
+19,65.0,Unión Española
+20,65.0,Unión Española
+23,63.0,Unión Española
+15,60.0,Cobresal
+16,64.0,Cobresal
+17,64.0,Cobresal
+20,64.0,Cobresal
+22,63.0,Cobresal
+15,63.0,Cobreloa
+15,68.0,Colo-Colo
+16,69.0,Colo-Colo
+17,70.0,Colo-Colo
+18,72.0,Colo-Colo
+19,70.0,Colo-Colo
+20,69.0,Colo-Colo
+21,68.0,Colo-Colo
+23,65.0,Colo-Colo
+21,66.0,Barcelona Guayaquil
+22,68.0,Barcelona Guayaquil
+23,68.0,Barcelona Guayaquil
+21,65.0,Emelec
+22,66.0,Emelec
+23,66.0,Emelec
+21,67.0,LDU Quito
+22,66.0,LDU Quito
+23,67.0,LDU Quito
+21,62.0,Aucas
+22,61.0,Aucas
+21,59.0,Caracas
+23,64.0,Caracas
+22,63.0,Deportivo Táchira
+23,65.0,Deportivo Táchira
+21,59.0,Mineros de Guayana
+22,61.0,Mineros de Guayana
+23,65.0,Wanderers
+21,62.0,Fénix
+22,62.0,Fénix
+21,60.0,Sportivo Luqueño
+22,64.0,12 de Octubre
+21,69.0,Libertad
+22,71.0,Libertad
+23,70.0,Libertad
+21,63.0,Alianza Lima
+23,67.0,Alianza Lima
+23,66.0,Cienciano
+22,66.0,Sporting Cristal
+23,67.0,Sporting Cristal
+22,65.0,Universitario
+23,65.0,Sport Boys
+16,61.0,Argentinos Juniors
+18,63.0,Argentinos Juniors
+19,66.0,Argentinos Juniors
+20,67.0,Argentinos Juniors
+21,68.0,Argentinos Juniors
+22,69.0,Argentinos Juniors
+23,68.0,Argentinos Juniors
+15,63.0,Belgrano
+16,65.0,Belgrano
+17,66.0,Belgrano
+18,65.0,Belgrano
+19,66.0,Belgrano
+16,65.0,Dorados
+18,66.0,Lobos BUAP
+19,66.0,Lobos BUAP
+22,69.5,Juventude
+17,68.0,Goiás
+20,70.0,Goiás
+21,69.0,Goiás
+16,68.0,Ponte Preta
+17,69.5,Ponte Preta
+18,69.0,Ponte Preta
+16,69.0,Coritiba
+17,68.5,Coritiba
+18,70.0,Coritiba
+21,70.0,Coritiba
+16,67.0,Figueirense
+17,68.5,Figueirense
+17,67.5,Criciúma
+19,69.0,Paraná
+20,69.0,Fortaleza
+21,70.0,Fortaleza
+22,70.0,Fortaleza
+23,70.0,Fortaleza
+16,65.0,Joinville
+17,69.0,Joinville
+17,67.5,Sport Recife
+18,71.5,Sport Recife
+19,69.0,Sport Recife
+17,69.5,Santa Cruz
+19,68.0,Ceará
+20,68.0,Ceará
+21,70.0,Ceará
+22,71.5,Ceará
+23,71.5,Ceará
+15,62.0,Real Salt Lake
+16,64.0,Real Salt Lake
+17,66.0,Real Salt Lake
+18,66.0,Real Salt Lake
+19,66.0,Real Salt Lake
+20,65.0,Real Salt Lake
+21,64.0,Real Salt Lake
+22,66.0,Real Salt Lake
+23,64.0,Real Salt Lake
+15,62.0,Chivas USA
+17,62.0,Arka Gdynia
+18,64.0,Arka Gdynia
+19,63.0,Arka Gdynia
+20,63.0,Arka Gdynia
+15,59.0,Korona Kielce
+16,61.0,Korona Kielce
+17,62.0,Korona Kielce
+18,63.0,Korona Kielce
+19,62.0,Korona Kielce
+20,63.0,Korona Kielce
+23,63.0,Korona Kielce
+20,60.0,ŁKS Łódź
+15,61.0,Piast Gliwice
+16,62.0,Piast Gliwice
+17,65.0,Piast Gliwice
+18,65.0,Piast Gliwice
+19,64.0,Piast Gliwice
+20,64.0,Piast Gliwice
+21,64.0,Piast Gliwice
+22,65.0,Piast Gliwice
+23,65.0,Piast Gliwice
+15,61.0,Podbeskidzie
+16,62.0,Podbeskidzie
+21,62.0,Podbeskidzie
+22,63.0,Radomiak Radom
+23,64.0,Radomiak Radom
+19,62.0,Zagłębie Sosnowiec
+15,64.0,Lechia Gdańsk
+16,65.0,Lechia Gdańsk
+17,68.0,Lechia Gdańsk
+18,67.0,Lechia Gdańsk
+19,65.0,Lechia Gdańsk
+20,65.0,Lechia Gdańsk
+21,65.0,Lechia Gdańsk
+22,65.0,Lechia Gdańsk
+23,65.0,Lechia Gdańsk
+15,62.0,Śląsk Wrocław
+16,64.0,Śląsk Wrocław
+17,66.0,Śląsk Wrocław
+18,66.0,Śląsk Wrocław
+19,65.0,Śląsk Wrocław
+20,64.0,Śląsk Wrocław
+21,64.0,Śląsk Wrocław
+22,65.0,Śląsk Wrocław
+23,64.0,Śląsk Wrocław
+21,68.0,Fatih Karagümrük
+22,70.0,Fatih Karagümrük
+23,67.0,Fatih Karagümrük
+17,55.0,Finn Harps
+18,55.0,Finn Harps
+20,55.0,Finn Harps
+21,56.0,Finn Harps
+22,56.0,Finn Harps
+23,55.0,Finn Harps
+15,52.0,UCD
+20,52.0,UCD
+23,54.0,UCD
+18,65.0,Minnesota United
+19,67.0,Minnesota United
+20,65.0,Minnesota United
+21,67.0,Minnesota United
+22,66.0,Minnesota United
+23,66.0,Minnesota United
+15,64.0,Montreal Impact
+16,65.0,Montreal Impact
+17,66.0,Montreal Impact
+18,66.0,Montreal Impact
+19,67.0,Montreal Impact
+20,65.0,Montreal Impact
+21,64.0,Montreal Impact
+22,64.0,Montreal Impact
+23,66.0,Montreal Impact
+15,64.0,Portland Timbers
+16,66.0,Portland Timbers
+17,67.0,Portland Timbers
+18,66.0,Portland Timbers
+19,66.0,Portland Timbers
+20,67.0,Portland Timbers
+21,68.0,Portland Timbers
+22,68.0,Portland Timbers
+23,67.0,Portland Timbers
+15,64.0,Seattle Sounders
+16,65.0,Seattle Sounders
+17,67.0,Seattle Sounders
+18,68.0,Seattle Sounders
+19,68.0,Seattle Sounders
+20,67.0,Seattle Sounders
+21,67.0,Seattle Sounders
+22,67.0,Seattle Sounders
+23,65.0,Seattle Sounders
+15,63.0,Heidenheim
+16,66.0,Heidenheim
+17,67.0,Heidenheim
+18,67.0,Heidenheim
+19,68.0,Heidenheim
+20,68.0,Heidenheim
+21,68.0,Heidenheim
+22,67.0,Heidenheim
+23,67.0,Heidenheim
+15,66.0,Ingolstadt
+16,70.0,Ingolstadt
+17,71.0,Ingolstadt
+18,70.0,Ingolstadt
+19,68.0,Ingolstadt
+20,66.0,Ingolstadt
+21,65.0,Ingolstadt
+22,66.0,Ingolstadt
+23,65.0,Ingolstadt
+15,63.0,Ural
+16,65.0,Ural
+17,66.0,Ural
+18,66.0,Ural
+15,68.0,Evian TG
+16,63.0,Evian TG
+16,64.0,Red Star
+17,66.0,Red Star
+19,64.0,Red Star
+21,64.0,Dunkerque
+22,64.0,Dunkerque
+15,58.0,Gefle
+16,61.0,Gefle
+17,62.0,Gefle
+15,53.0,Limerick
+16,54.0,Limerick
+18,55.0,Limerick
+19,55.0,Limerick
+21,68.0,Nacional
+22,67.0,Nacional
+23,69.0,Nacional
+21,63.0,Liverpool
+23,65.0,Liverpool
+15,63.0,Huachipato
+16,64.0,Huachipato
+17,64.0,Huachipato
+18,68.0,Huachipato
+19,62.0,Huachipato
+20,65.0,Huachipato
+21,60.0,Huachipato
+22,62.0,Huachipato
+15,63.0,Palestino
+16,65.0,Palestino
+17,64.0,Palestino
+18,65.0,Palestino
+19,64.0,Palestino
+20,64.0,Palestino
+22,66.0,Palestino
+21,64.0,Guaraní
+21,63.0,El Nacional
+21,60.0,Estudiantes Mérida
+23,64.0,Estudiantes Mérida
+21,63.0,Melgar
+22,64.0,Melgar
+23,67.0,Melgar
+15,66.0,Kasımpaşa
+16,68.0,Kasımpaşa
+17,68.0,Kasımpaşa
+18,69.0,Kasımpaşa
+19,70.0,Kasımpaşa
+20,68.0,Kasımpaşa
+21,68.0,Kasımpaşa
+22,68.0,Kasımpaşa
+23,69.0,Kasımpaşa
+15,65.0,Akhisar Belediyespor
+16,67.0,Akhisar Belediyespor
+17,69.0,Akhisar Belediyespor
+18,69.0,Akhisar Belediyespor
+19,69.0,Akhisar Belediyespor
+15,59.0,Wiener Neustadt
+18,64.0,Sonnenhof Großaspach
+19,62.0,Sonnenhof Großaspach
+20,62.0,Sonnenhof Großaspach
+15,59.0,Adelaide United
+16,61.0,Adelaide United
+17,61.0,Adelaide United
+18,62.0,Adelaide United
+19,63.0,Adelaide United
+20,63.0,Adelaide United
+21,61.0,Adelaide United
+22,61.0,Adelaide United
+23,61.0,Adelaide United
+15,58.0,Brisbane Roar
+16,63.0,Brisbane Roar
+17,65.0,Brisbane Roar
+18,64.0,Brisbane Roar
+19,64.0,Brisbane Roar
+20,62.0,Brisbane Roar
+21,60.0,Brisbane Roar
+22,58.0,Brisbane Roar
+23,60.0,Brisbane Roar
+15,58.0,Central Coast Mariners
+16,59.0,Central Coast Mariners
+17,61.0,Central Coast Mariners
+18,61.0,Central Coast Mariners
+19,62.0,Central Coast Mariners
+20,61.0,Central Coast Mariners
+21,59.0,Central Coast Mariners
+22,58.0,Central Coast Mariners
+23,61.0,Central Coast Mariners
+15,60.0,Melbourne Victory
+16,64.0,Melbourne Victory
+17,65.0,Melbourne Victory
+18,65.0,Melbourne Victory
+19,65.0,Melbourne Victory
+20,62.0,Melbourne Victory
+21,59.0,Melbourne Victory
+22,62.0,Melbourne Victory
+23,63.0,Melbourne Victory
+15,58.0,Newcastle Jets
+16,60.0,Newcastle Jets
+17,61.0,Newcastle Jets
+18,62.0,Newcastle Jets
+19,63.0,Newcastle Jets
+20,63.0,Newcastle Jets
+21,61.0,Newcastle Jets
+22,61.0,Newcastle Jets
+23,62.0,Newcastle Jets
+15,61.0,Perth Glory
+16,62.0,Perth Glory
+17,63.0,Perth Glory
+18,62.0,Perth Glory
+19,64.0,Perth Glory
+20,63.0,Perth Glory
+21,61.0,Perth Glory
+22,59.0,Perth Glory
+23,60.0,Perth Glory
+15,61.0,Sydney
+16,63.0,Sydney
+17,65.0,Sydney
+18,65.0,Sydney
+19,63.0,Sydney
+20,64.0,Sydney
+21,62.0,Sydney
+22,65.0,Sydney
+23,63.0,Sydney
+18,67.0,Cremonese
+19,68.0,Cremonese
+20,68.0,Cremonese
+23,70.0,Cremonese
+22,68.0,Vizela
+23,67.5,Vizela
+15,63.0,Royal Excel Mouscron
+16,65.0,Royal Excel Mouscron
+17,65.0,Royal Excel Mouscron
+18,65.0,Royal Excel Mouscron
+19,66.0,Royal Excel Mouscron
+20,66.0,Royal Excel Mouscron
+21,66.0,Royal Excel Mouscron
+17,68.0,Urawa Reds
+18,67.0,Urawa Reds
+19,67.0,Urawa Reds
+20,67.0,Urawa Reds
+21,66.0,Urawa Reds
+22,67.0,Urawa Reds
+15,58.0,Gyeongnam
+19,63.0,Gyeongnam
+20,63.0,Gyeongnam
+22,54.0,East Bengal
+23,54.0,East Bengal
+15,64.0,Toronto
+16,65.0,Toronto
+17,66.0,Toronto
+18,67.0,Toronto
+19,67.0,Toronto
+20,67.0,Toronto
+21,66.0,Toronto
+22,64.0,Toronto
+23,63.0,Toronto
+15,63.0,Universidad Guadalajara
+15,62.0,Frosinone
+16,68.0,Frosinone
+17,68.0,Frosinone
+18,68.0,Frosinone
+19,71.0,Frosinone
+20,69.0,Frosinone
+23,66.0,Frosinone
+20,63.0,Rodez
+21,63.0,Rodez
+22,64.0,Rodez
+23,63.0,Rodez
+19,63.0,Vendsyssel
+15,61.0,Al Shabab
+16,63.0,Al Shabab
+17,64.0,Al Shabab
+18,64.0,Al Shabab
+19,64.0,Al Shabab
+20,64.0,Al Shabab
+21,65.0,Al Shabab
+22,65.0,Al Shabab
+23,66.0,Al Shabab
+15,65.0,Tijuana
+16,66.0,Tijuana
+17,69.0,Tijuana
+18,69.0,Tijuana
+19,66.0,Tijuana
+20,69.0,Tijuana
+21,70.0,Tijuana
+22,68.0,Tijuana
+20,65.0,Al Ain
+21,65.0,Al Ain
+22,64.0,Al Ain
+23,65.0,Al Ain
+15,58.0,Brommapojkarna
+19,60.0,Brommapojkarna
+15,62.0,Godoy Cruz
+16,61.0,Godoy Cruz
+17,66.0,Godoy Cruz
+18,67.0,Godoy Cruz
+19,63.0,Godoy Cruz
+20,64.0,Godoy Cruz
+21,65.0,Godoy Cruz
+22,66.0,Godoy Cruz
+23,68.0,Godoy Cruz
+16,62.0,Aldosivi
+17,65.0,Aldosivi
+19,66.0,Aldosivi
+20,67.0,Aldosivi
+21,65.0,Aldosivi
+22,66.0,Aldosivi
+23,66.0,Aldosivi
+17,68.0,Atlético Tucumán
+18,68.0,Atlético Tucumán
+19,69.0,Atlético Tucumán
+20,68.0,Atlético Tucumán
+21,68.0,Atlético Tucumán
+22,67.0,Atlético Tucumán
+23,68.0,Atlético Tucumán
+15,64.0,Defensa y Justicia
+16,64.0,Defensa y Justicia
+17,65.0,Defensa y Justicia
+18,66.0,Defensa y Justicia
+19,68.0,Defensa y Justicia
+20,70.0,Defensa y Justicia
+21,69.0,Defensa y Justicia
+22,69.0,Defensa y Justicia
+23,67.5,Defensa y Justicia
+16,65.0,Huracán
+17,67.0,Huracán
+18,69.0,Huracán
+19,70.0,Huracán
+20,68.0,Huracán
+21,66.0,Huracán
+22,66.0,Huracán
+23,67.0,Huracán
+16,62.0,San Martín San Juan
+17,64.0,San Martín San Juan
+18,64.0,San Martín San Juan
+19,65.0,San Martín San Juan
+19,65.0,San Martín Tucumán
+15,66.0,Tigre
+16,67.0,Tigre
+17,67.0,Tigre
+18,67.0,Tigre
+19,68.0,Tigre
+21,62.0,Tigre
+23,67.0,Tigre
+16,60.0,Unión Santa Fe
+17,64.0,Unión Santa Fe
+18,66.0,Unión Santa Fe
+19,67.0,Unión Santa Fe
+20,69.0,Unión Santa Fe
+21,66.0,Unión Santa Fe
+22,68.0,Unión Santa Fe
+23,68.0,Unión Santa Fe
+16,59.0,Cúcuta Deportivo
+20,63.0,Cúcuta Deportivo
+15,65.0,Deportes Tolima
+16,66.0,Deportes Tolima
+17,67.0,Deportes Tolima
+18,68.0,Deportes Tolima
+19,68.0,Deportes Tolima
+20,67.0,Deportes Tolima
+22,67.0,Deportes Tolima
+23,69.0,Deportes Tolima
+15,63.0,Deportivo Pasto
+16,64.0,Deportivo Pasto
+17,64.0,Deportivo Pasto
+18,64.0,Deportivo Pasto
+19,65.0,Deportivo Pasto
+20,65.0,Deportivo Pasto
+21,64.0,Deportivo Pasto
+22,64.0,Deportivo Pasto
+19,62.5,Shandong Luneng
+20,64.0,Shandong Luneng
+21,65.0,Shandong Luneng
+22,66.0,Shandong Luneng
+23,66.0,Shandong Luneng
+17,66.0,Kawasaki Frontale
+18,67.0,Kawasaki Frontale
+19,66.0,Kawasaki Frontale
+20,68.0,Kawasaki Frontale
+21,68.0,Kawasaki Frontale
+22,68.0,Kawasaki Frontale
+15,61.0,Wellington Phoenix
+16,60.0,Wellington Phoenix
+17,62.0,Wellington Phoenix
+18,62.0,Wellington Phoenix
+19,63.0,Wellington Phoenix
+20,62.0,Wellington Phoenix
+21,62.0,Wellington Phoenix
+22,62.0,Wellington Phoenix
+23,63.0,Wellington Phoenix
+19,64.0,Beijing Guoan
+20,65.0,Beijing Guoan
+21,65.0,Beijing Guoan
+22,61.0,Beijing Guoan
+23,62.5,Beijing Guoan
+19,59.0,Changchun Yatai
+22,58.5,Changchun Yatai
+23,59.0,Changchun Yatai
+20,57.0,Shenzhen
+21,60.0,Shenzhen
+22,60.0,Shenzhen
+23,60.0,Shenzhen
+19,60.0,Tianjin Teda
+20,59.0,Tianjin Teda
+21,57.0,Tianjin Teda
+22,56.0,Tianjin Teda
+23,58.0,Tianjin Teda
+19,60.0,Henan Jianye
+20,61.0,Henan Jianye
+21,61.0,Henan Jianye
+22,60.0,Henan Jianye
+23,61.0,Henan Jianye
+21,69.0,Monza
+22,69.0,Monza
+23,72.0,Monza
+16,65.0,Paris
+18,65.0,Paris
+19,65.0,Paris
+20,66.0,Paris
+21,65.0,Paris
+22,65.0,Paris
+23,68.0,Paris
+15,59.0,Admira
+16,61.0,Admira
+17,63.0,Admira
+18,62.0,Admira
+19,63.0,Admira
+20,64.0,Admira
+21,63.0,Admira
+22,63.0,Admira
+15,63.0,Wolfsberger AC
+16,64.0,Wolfsberger AC
+17,63.0,Wolfsberger AC
+18,63.0,Wolfsberger AC
+19,63.0,Wolfsberger AC
+20,65.0,Wolfsberger AC
+21,66.0,Wolfsberger AC
+22,67.0,Wolfsberger AC
+23,65.0,Wolfsberger AC
+15,60.0,Åtvidaberg
+16,60.0,Åtvidaberg
+19,67.0,Guangzhou Evergrande
+20,66.0,Guangzhou Evergrande
+21,67.0,Guangzhou Evergrande
+22,59.0,Guangzhou Evergrande
+23,55.0,Guangzhou Evergrande
+15,63.0,SJ Earthquakes
+16,65.0,SJ Earthquakes
+17,66.0,SJ Earthquakes
+18,67.0,SJ Earthquakes
+19,66.0,SJ Earthquakes
+20,67.0,SJ Earthquakes
+21,66.0,SJ Earthquakes
+22,65.0,SJ Earthquakes
+23,64.0,SJ Earthquakes
+15,52.0,Athlone Town
+17,53.0,Wexford Youths
+15,70.0,Sassuolo
+16,71.0,Sassuolo
+17,74.0,Sassuolo
+18,74.0,Sassuolo
+19,73.0,Sassuolo
+20,72.0,Sassuolo
+21,72.0,Sassuolo
+22,73.0,Sassuolo
+23,72.0,Sassuolo
+16,64.0,Avaí
+17,67.0,Avaí
+18,68.0,Avaí
+20,69.0,Avaí
+15,64.0,Eskişehirspor
+16,67.0,Eskişehirspor
+15,61.0,Arles
+15,60.0,Cittadella
+17,62.0,Cittadella
+18,64.0,Cittadella
+19,66.0,Cittadella
+20,66.0,Cittadella
+23,64.0,Cittadella
+17,70.5,América Mineiro
+19,71.0,América Mineiro
+23,69.5,América Mineiro
+15,58.0,Boyacá Chicó
+16,60.0,Boyacá Chicó
+17,62.0,Boyacá Chicó
+19,61.0,Boyacá Chicó
+15,62.0,Virtus Lanciano
+16,63.0,Virtus Lanciano
+15,59.0,Grödig
+16,60.0,Grödig
+17,65.0,Benevento
+18,71.0,Benevento
+19,70.0,Benevento
+20,70.0,Benevento
+21,70.0,Benevento
+22,68.0,Benevento
+23,68.0,Benevento
+15,59.0,Mjällby
+21,60.0,Mjällby
+22,60.0,Mjällby
+23,62.0,Mjällby
+17,61.0,St. Pölten
+18,61.0,St. Pölten
+19,63.0,St. Pölten
+20,64.0,St. Pölten
+21,64.0,St. Pölten
+21,62.0,Sol de América
+23,62.0,Sol de América
+17,58.0,Nagoya Grampus
+19,63.0,Nagoya Grampus
+20,66.0,Nagoya Grampus
+21,66.0,Nagoya Grampus
+22,66.0,Nagoya Grampus
+17,65.0,Gamba Osaka
+18,65.0,Gamba Osaka
+19,63.0,Gamba Osaka
+20,66.0,Gamba Osaka
+21,65.0,Gamba Osaka
+22,65.0,Gamba Osaka
+17,60.0,Al Ittifaq
+18,61.0,Al Ittifaq
+19,62.0,Al Ittifaq
+20,63.0,Al Ittifaq
+21,61.0,Al Ittifaq
+22,62.0,Al Ittifaq
+23,61.0,Al Ittifaq
+18,64.0,Gangwon
+19,64.0,Gangwon
+20,63.0,Gangwon
+21,62.0,Gangwon
+22,62.0,Gangwon
+23,63.0,Gangwon
+15,66.0,O'Higgins
+16,65.0,O'Higgins
+17,66.0,O'Higgins
+18,68.0,O'Higgins
+19,65.0,O'Higgins
+20,65.0,O'Higgins
+18,66.0,Atlético GO
+21,71.0,Atlético GO
+22,71.0,Atlético GO
+23,71.0,Atlético GO
+22,67.0,Giresunspor
+23,65.0,Giresunspor
+15,66.0,Karabükspor
+17,68.0,Karabükspor
+18,66.0,Karabükspor
+20,65.0,Juve Stabia
+23,60.0,Värnamo
+17,62.0,Jönköpings Södra
+18,62.0,Jönköpings Södra
+15,64.0,Philadelphia Union
+16,66.0,Philadelphia Union
+17,67.0,Philadelphia Union
+18,66.0,Philadelphia Union
+19,66.0,Philadelphia Union
+20,66.0,Philadelphia Union
+21,67.0,Philadelphia Union
+22,67.0,Philadelphia Union
+23,66.0,Philadelphia Union
+15,65.0,Al Nassr
+16,67.0,Al Nassr
+17,67.0,Al Nassr
+18,67.0,Al Nassr
+19,66.0,Al Nassr
+20,65.0,Al Nassr
+21,65.0,Al Nassr
+22,67.0,Al Nassr
+23,66.0,Al Nassr
+19,61.0,Jiangsu Suning
+20,63.0,Jiangsu Suning
+21,61.0,Jiangsu Suning
+23,58.5,Hangzhou
+19,60.0,Chongqing Dangdai Lifan
+20,60.0,Chongqing Dangdai Lifan
+21,55.0,Chongqing Dangdai Lifan
+22,54.0,Chongqing Dangdai Lifan
+19,65.0,Cosenza
+20,66.0,Cosenza
+23,65.0,Cosenza
+15,58.0,Falkenberg
+16,60.0,Falkenberg
+17,60.0,Falkenberg
+20,61.0,Falkenberg
+21,60.0,Falkenberg
+18,60.0,AFC Eskilstuna
+20,58.0,AFC Eskilstuna
+15,64.0,RB Leipzig
+16,69.0,RB Leipzig
+17,71.0,RB Leipzig
+18,74.0,RB Leipzig
+19,76.0,RB Leipzig
+20,76.0,RB Leipzig
+21,78.0,RB Leipzig
+22,77.0,RB Leipzig
+23,80.0,RB Leipzig
+21,62.0,River Plate
+23,65.0,River Plate
+15,61.0,Sarpsborg 08
+16,62.0,Sarpsborg 08
+17,63.0,Sarpsborg 08
+18,64.0,Sarpsborg 08
+19,63.0,Sarpsborg 08
+20,64.0,Sarpsborg 08
+21,64.0,Sarpsborg 08
+22,64.0,Sarpsborg 08
+23,63.0,Sarpsborg 08
+19,60.0,Ranheim
+20,61.0,Ranheim
+15,68.0,Krasnodar
+16,73.0,Krasnodar
+17,74.0,Krasnodar
+18,73.0,Krasnodar
+21,59.0,Harrogate Town
+22,62.0,Harrogate Town
+23,59.0,Harrogate Town
+15,60.0,Melbourne City
+16,62.0,Melbourne City
+17,64.0,Melbourne City
+18,65.0,Melbourne City
+19,64.0,Melbourne City
+20,65.0,Melbourne City
+21,64.0,Melbourne City
+22,64.0,Melbourne City
+23,64.0,Melbourne City
+16,65.0,Novara
+17,66.0,Novara
+18,65.0,Novara
+15,60.0,Varese
+15,56.0,Newport County
+16,58.0,Newport County
+17,60.0,Newport County
+18,60.0,Newport County
+19,62.0,Newport County
+20,62.0,Newport County
+21,61.0,Newport County
+22,62.0,Newport County
+23,60.0,Newport County
+16,58.0,Gwangju
+17,60.0,Gwangju
+18,61.0,Gwangju
+21,62.0,Gwangju
+22,62.0,Gwangju
+15,58.0,AFC Wimbledon
+16,60.0,AFC Wimbledon
+17,63.0,AFC Wimbledon
+18,64.0,AFC Wimbledon
+19,62.0,AFC Wimbledon
+20,61.0,AFC Wimbledon
+21,62.0,AFC Wimbledon
+22,62.0,AFC Wimbledon
+23,61.0,AFC Wimbledon
+15,58.0,Fleetwood Town
+16,60.0,Fleetwood Town
+17,62.0,Fleetwood Town
+18,62.0,Fleetwood Town
+19,63.0,Fleetwood Town
+20,64.0,Fleetwood Town
+21,64.0,Fleetwood Town
+22,63.0,Fleetwood Town
+23,62.0,Fleetwood Town
+17,66.0,Orenburg
+15,61.0,Orléans
+17,64.0,Orléans
+18,65.0,Orléans
+19,64.0,Orléans
+20,64.0,Orléans
+17,62.0,Omiya Ardija
+18,59.0,Omiya Ardija
+15,59.0,Sandnes Ulf
+19,58.0,Dalian Professional
+20,58.0,Dalian Professional
+21,59.0,Dalian Professional
+22,56.0,Dalian Professional
+23,56.0,Dalian Professional
+15,63.0,Al Ahli Jeddah
+16,65.0,Al Ahli Jeddah
+17,66.0,Al Ahli Jeddah
+18,67.0,Al Ahli Jeddah
+19,68.0,Al Ahli Jeddah
+20,66.0,Al Ahli Jeddah
+21,65.0,Al Ahli Jeddah
+22,63.5,Al Ahli Jeddah
+15,56.0,Al Faisaly
+16,58.0,Al Faisaly
+17,60.0,Al Faisaly
+18,63.0,Al Faisaly
+19,64.0,Al Faisaly
+20,63.0,Al Faisaly
+21,61.0,Al Faisaly
+22,62.0,Al Faisaly
+15,56.0,Al Fateh
+16,60.0,Al Fateh
+17,62.0,Al Fateh
+18,62.0,Al Fateh
+19,63.0,Al Fateh
+20,61.0,Al Fateh
+21,60.0,Al Fateh
+22,60.0,Al Fateh
+23,62.5,Al Fateh
+16,57.0,Al Quadisiya
+17,61.0,Al Quadisiya
+18,62.0,Al Quadisiya
+19,64.0,Al Quadisiya
+21,57.0,Al Quadisiya
+15,56.0,Al Raed
+16,60.0,Al Raed
+17,61.0,Al Raed
+18,62.0,Al Raed
+19,62.0,Al Raed
+20,60.0,Al Raed
+21,63.0,Al Raed
+22,63.0,Al Raed
+23,63.0,Al Raed
+15,56.0,Al Taawon
+16,60.0,Al Taawon
+17,61.0,Al Taawon
+18,63.0,Al Taawon
+19,62.0,Al Taawon
+20,63.0,Al Taawon
+21,63.0,Al Taawon
+22,62.0,Al Taawon
+23,61.0,Al Taawon
+15,54.0,Hajer
+16,58.0,Hajer
+15,55.0,Najran
+16,59.0,Najran
+15,61.0,Pro Vercelli
+16,64.0,Pro Vercelli
+17,63.0,Pro Vercelli
+18,63.0,Pro Vercelli
+15,56.0,Al Shoalah
+16,59.0,Al Wahda
+17,61.0,Al Wahda
+19,64.0,Al Wahda
+20,61.0,Al Wahda
+21,62.0,Al Wahda
+23,60.0,Al Wahda
+15,63.0,Carpi
+16,71.0,Carpi
+17,69.0,Carpi
+18,65.0,Carpi
+19,65.0,Carpi
+15,61.0,Trapani
+16,63.0,Trapani
+17,64.0,Trapani
+20,65.0,Trapani
+16,60.0,Mjøndalen
+20,60.0,Mjøndalen
+21,61.0,Mjøndalen
+22,59.0,Mjøndalen
+15,61.0,Vestsjaelland
+15,58.0,Hobro
+16,63.0,Hobro
+18,63.0,Hobro
+19,63.0,Hobro
+20,61.0,Hobro
+15,60.0,Western Sydney Wanderers
+16,61.0,Western Sydney Wanderers
+17,63.0,Western Sydney Wanderers
+18,63.0,Western Sydney Wanderers
+19,63.0,Western Sydney Wanderers
+20,63.0,Western Sydney Wanderers
+21,62.0,Western Sydney Wanderers
+22,63.0,Western Sydney Wanderers
+23,63.0,Western Sydney Wanderers
+19,61.0,Guangzhou R&F
+20,61.0,Guangzhou R&F
+21,59.0,Guangzhou R&F
+22,59.0,Guangzhou R&F
+23,58.0,Guangzhou R&F
+18,62.0,Consadole Sapporo
+19,63.0,Consadole Sapporo
+20,66.0,Consadole Sapporo
+21,65.0,Consadole Sapporo
+22,65.0,Consadole Sapporo
+19,60.0,V-Varen Nagasaki
+22,72.0,Bragantino
+23,72.0,Bragantino
+16,68.0,Chapecoense
+17,67.0,Chapecoense
+18,68.5,Chapecoense
+19,70.0,Chapecoense
+20,70.0,Chapecoense
+22,68.0,Chapecoense
+15,63.0,Latina
+16,65.0,Latina
+17,63.0,Latina
+23,64.0,Südtirol
+19,63.0,Miedź Legnica
+23,63.0,Miedź Legnica
+18,62.0,Sandecja Nowy Sącz
+16,61.0,Nieciecza
+17,64.0,Nieciecza
+18,64.0,Nieciecza
+22,63.0,Nieciecza
+21,62.0,Warta Poznań
+22,63.0,Warta Poznań
+23,63.0,Warta Poznań
+15,62.0,Zawisza Bydgoszcz
+15,67.0,Arouca
+16,68.0,Arouca
+17,69.0,Arouca
+22,67.0,Arouca
+23,67.0,Arouca
+16,66.5,Tondela
+17,67.0,Tondela
+18,67.0,Tondela
+19,67.0,Tondela
+20,67.0,Tondela
+21,66.0,Tondela
+22,67.0,Tondela
+16,67.0,União Madeira
+15,63.0,La Equidad
+16,64.0,La Equidad
+17,64.0,La Equidad
+18,64.0,La Equidad
+19,64.0,La Equidad
+20,65.0,La Equidad
+22,64.0,La Equidad
+23,66.0,La Equidad
+15,62.0,Envigado
+16,60.0,Envigado
+17,61.0,Envigado
+18,61.0,Envigado
+19,62.0,Envigado
+20,63.0,Envigado
+15,60.0,Patriotas Boyacá
+16,63.0,Patriotas Boyacá
+17,63.0,Patriotas Boyacá
+18,63.0,Patriotas Boyacá
+19,64.0,Patriotas Boyacá
+20,64.0,Patriotas Boyacá
+15,62.0,Atlético Huila
+16,60.0,Atlético Huila
+17,61.0,Atlético Huila
+18,63.0,Atlético Huila
+19,61.0,Atlético Huila
+20,62.0,Atlético Huila
+15,62.0,Deportes Iquique
+16,63.0,Deportes Iquique
+17,65.0,Deportes Iquique
+18,67.0,Deportes Iquique
+19,65.0,Deportes Iquique
+20,64.0,Deportes Iquique
+15,61.0,Antofagasta
+16,64.0,Antofagasta
+17,65.0,Antofagasta
+18,67.0,Antofagasta
+19,66.0,Antofagasta
+20,65.0,Antofagasta
+22,64.0,Antofagasta
+23,65.0,Antofagasta
+15,62.0,Univ. Concepción
+16,65.0,Univ. Concepción
+17,66.0,Univ. Concepción
+18,69.0,Univ. Concepción
+19,67.0,Univ. Concepción
+20,64.0,Univ. Concepción
+15,61.0,Unión La Calera
+16,63.0,Unión La Calera
+19,65.0,Unión La Calera
+20,66.0,Unión La Calera
+21,65.0,Unión La Calera
+22,65.0,Unión La Calera
+23,63.0,Unión La Calera
+19,61.0,Beijing Renhe
+20,56.0,Beijing Renhe
+19,61.0,Shanghai SIPG
+20,64.0,Shanghai SIPG
+21,65.0,Shanghai SIPG
+22,65.0,Shanghai SIPG
+23,64.0,Shanghai SIPG
+20,58.0,Wuhan Zall
+21,61.0,Wuhan Zall
+22,59.0,Wuhan Zall
+23,58.0,Wuhan Zall
+18,62.0,Quevilly Rouen
+22,63.0,Quevilly Rouen
+23,63.0,Quevilly Rouen
+17,62.0,Suwon
+22,63.0,Suwon
+23,63.0,Suwon
+22,59.0,Al Tai
+23,60.0,Al Tai
+15,64.0,Rionegro Águilas
+16,65.0,Rionegro Águilas
+17,65.0,Rionegro Águilas
+18,66.0,Rionegro Águilas
+19,66.0,Rionegro Águilas
+20,65.0,Rionegro Águilas
+15,59.0,Alianza Petrolera
+16,63.0,Alianza Petrolera
+17,64.0,Alianza Petrolera
+18,64.0,Alianza Petrolera
+19,65.0,Alianza Petrolera
+20,64.0,Alianza Petrolera
+17,64.0,Everton
+18,69.0,Everton
+19,64.0,Everton
+20,66.0,Everton
+23,66.0,Everton
+15,62.0,Ñublense
+23,64.0,Ñublense
+15,64.0,San Marcos
+16,65.0,San Marcos
+16,65.0,Orlando City
+17,66.0,Orlando City
+18,67.0,Orlando City
+19,66.0,Orlando City
+20,65.0,Orlando City
+21,67.0,Orlando City
+22,67.0,Orlando City
+23,67.0,Orlando City
+20,63.0,Chambly
+21,63.0,Chambly
+20,65.0,Gaz Metan Mediaş
+21,64.0,Gaz Metan Mediaş
+22,62.0,Gaz Metan Mediaş
+18,65.0,Curicó Unido
+19,64.0,Curicó Unido
+20,63.0,Curicó Unido
+21,62.0,Real Garcilaso
+21,62.0,Nacional Potosí
+22,64.0,Nacional Potosí
+16,64.0,San Luis
+17,63.0,San Luis
+18,65.0,San Luis
+19,63.0,San Luis
+17,64.0,Talleres Córdoba
+18,65.0,Talleres Córdoba
+19,65.0,Talleres Córdoba
+20,67.0,Talleres Córdoba
+21,68.0,Talleres Córdoba
+22,68.0,Talleres Córdoba
+23,68.0,Talleres Córdoba
+21,62.0,Nacional Asunción
+22,64.0,Nacional Asunción
+23,64.0,Nacional Asunción
+15,55.0,Al Orubah
+20,67.0,Atlético San Luis
+21,67.0,Atlético San Luis
+22,65.0,Atlético San Luis
+15,65.0,Chiapas
+16,65.0,Chiapas
+17,67.0,Chiapas
+22,66.0,Platense
+23,67.0,Platense
+22,64.0,RFC Seraing
+23,63.0,RFC Seraing
+20,66.0,Coquimbo Unido
+21,64.0,Coquimbo Unido
+15,61.0,Barnechea
+17,64.0,Deportes Temuco
+18,66.0,Deportes Temuco
+19,63.0,Deportes Temuco
+16,63.0,Sarmiento
+17,64.0,Sarmiento
+22,66.0,Sarmiento
+23,66.0,Sarmiento
+20,60.0,Unión Magdalena
+22,66.0,Cerro Porteño
+23,66.0,Cerro Porteño
+22,63.0,Tokushima Vortis
+17,65.0,SPAL
+18,70.0,SPAL
+19,73.0,SPAL
+20,72.0,SPAL
+21,67.0,SPAL
+23,65.0,SPAL
+20,70.0,Famalicão
+21,67.0,Famalicão
+22,68.5,Famalicão
+23,69.0,Famalicão
+16,65.0,New York City
+17,66.0,New York City
+18,66.0,New York City
+19,68.0,New York City
+20,69.0,New York City
+21,67.0,New York City
+22,67.0,New York City
+23,67.5,New York City
+15,58.0,Uniautonoma
+16,59.0,Uniautonoma
+15,61.0,Fortaleza CEIF
+17,59.0,Fortaleza CEIF
+17,62.0,Vegalta Sendai
+18,61.0,Vegalta Sendai
+19,63.0,Vegalta Sendai
+20,64.0,Vegalta Sendai
+21,65.0,Vegalta Sendai
+22,64.0,Vegalta Sendai
+20,66.0,Astra
+21,65.0,Astra
+22,64.0,Deportivo La Guaira
+23,64.0,Deportivo La Guaira
+15,54.0,Al Khaleej
+16,58.0,Al Khaleej
+17,59.0,Al Khaleej
+23,58.0,Al Khaleej
+18,66.0,Atlanta United
+19,66.0,Atlanta United
+20,67.0,Atlanta United
+21,66.0,Atlanta United
+22,65.0,Atlanta United
+23,66.0,Atlanta United
+15,60.0,Balıkesirspor
+21,66.0,Inter Miami
+22,66.0,Inter Miami
+23,64.0,Inter Miami
+15,62.0,Llagostera-Costa Brava
+16,66.0,Llagostera-Costa Brava
+16,60.0,Jaguares de Córdoba
+17,64.0,Jaguares de Córdoba
+18,65.0,Jaguares de Córdoba
+19,63.0,Jaguares de Córdoba
+20,63.0,Jaguares de Córdoba
+16,61.0,Temperley
+17,65.0,Temperley
+18,63.0,Temperley
+17,58.0,Albirex Niigata
+18,59.0,Albirex Niigata
+21,65.0,Independiente del Valle
+22,66.0,Independiente del Valle
+23,68.0,Independiente del Valle
+16,58.0,Crucero del Norte
+21,60.0,Zamora Fútbol Club
+22,64.0,Metropolitanos
+23,65.0,Metropolitanos
+21,61.0,Aragua
+22,62.0,Aragua
+16,61.0,Nueva Chicago
+16,58.0,Cortuluá
+17,61.0,Cortuluá
+18,63.0,Cortuluá
+15,62.0,Vicenza
+16,65.0,Vicenza
+17,65.0,Vicenza
+21,57.0,Qingdao Hainiu
+22,54.0,Qingdao Hainiu
+20,64.0,Central Cordoba SdE
+21,64.0,Central Cordoba SdE
+22,66.0,Central Cordoba SdE
+23,67.0,Central Cordoba SdE
+18,60.0,Tigres
+19,61.0,Leones FC
+19,62.0,Guizhou Zhicheng
+19,64.0,Hebei CFFC
+20,58.0,Hebei CFFC
+21,57.0,Hebei CFFC
+22,53.0,Hebei CFFC
+23,51.0,Hebei CFFC
+19,61.0,Tianjin Quanjian
+20,61.0,Tianjin Quanjian
+21,58.0,Shijiazhuang Ever Bright
+22,59.0,Shijiazhuang Ever Bright
+23,59.0,Shijiazhuang Ever Bright
+17,58.0,Al Batin
+18,60.0,Al Batin
+19,61.0,Al Batin
+22,59.0,Al Batin
+23,53.0,Al Batin
+17,66.0,Atlético Bucaramanga
+18,65.0,Atlético Bucaramanga
+19,65.0,Atlético Bucaramanga
+20,65.0,Atlético Bucaramanga
+19,68.0,Los Angeles FC
+20,68.0,Los Angeles FC
+21,66.0,Los Angeles FC
+22,65.0,Los Angeles FC
+23,69.5,Los Angeles FC
+22,55.0,NorthEast United
+23,54.0,NorthEast United
+23,67.0,Barracas Central
+18,63.0,Al Feiha
+19,63.0,Al Feiha
+20,63.0,Al Feiha
+21,62.0,Al Feiha
+22,61.0,Al Feiha
+23,62.0,Al Feiha
+20,60.0,Abha
+21,61.0,Abha
+22,60.0,Abha
+23,62.0,Abha
+20,66.0,Juárez
+21,67.0,Juárez
+22,67.0,Juárez
+17,67.0,Alanyaspor
+18,68.0,Alanyaspor
+19,69.0,Alanyaspor
+20,70.0,Alanyaspor
+21,70.0,Alanyaspor
+22,69.0,Alanyaspor
+23,68.0,Alanyaspor
+22,63.0,Torque
+22,58.0,ATK Mohun Bagan
+23,59.0,ATK Mohun Bagan
+15,61.0,Virtus Entella
+16,61.0,Virtus Entella
+17,64.0,Virtus Entella
+18,65.0,Virtus Entella
+20,65.0,Virtus Entella
+20,66.0,Cincinnati
+21,65.0,Cincinnati
+22,65.0,Cincinnati
+23,65.0,Cincinnati
+17,65.0,Sanfrecce Hiroshima
+18,64.0,Sanfrecce Hiroshima
+19,64.0,Sanfrecce Hiroshima
+20,67.0,Sanfrecce Hiroshima
+21,66.0,Sanfrecce Hiroshima
+22,66.0,Sanfrecce Hiroshima
+20,63.0,Matsumoto Yamaga
+17,63.0,Sagan Tosu
+18,64.0,Sagan Tosu
+19,64.0,Sagan Tosu
+20,63.0,Sagan Tosu
+21,63.0,Sagan Tosu
+22,64.0,Sagan Tosu
+17,61.0,Shonan Bellmare
+19,61.0,Shonan Bellmare
+20,63.0,Shonan Bellmare
+21,64.0,Shonan Bellmare
+22,64.0,Shonan Bellmare
+17,60.0,Ventforet Kofu
+18,59.0,Ventforet Kofu
+17,63.0,Östersunds FK
+18,64.0,Östersunds FK
+19,63.0,Östersunds FK
+20,61.0,Östersunds FK
+21,62.0,Östersunds FK
+22,61.0,Östersunds FK
+20,66.0,Viitorul
+21,65.0,Viitorul
+20,64.0,Voluntari
+21,63.0,Voluntari
+22,64.0,Voluntari
+23,64.0,Voluntari
+20,65.0,Oita Trinita
+21,64.0,Oita Trinita
+22,64.0,Oita Trinita
+17,60.0,Avispa Fukuoka
+22,64.0,Avispa Fukuoka
+21,64.0,Yokohama
+22,64.0,Yokohama
+17,67.0,UCAM Murcia
+20,60.0,Dhamk
+21,59.0,Dhamk
+22,59.0,Dhamk
+23,62.0,Dhamk
+18,59.0,Ohod
+19,61.0,Ohod
+19,61.0,Al Hazm
+20,61.0,Al Hazm
+21,61.0,Al Hazm
+22,59.0,Al Hazm
+22,53.0,Odisha FC
+23,54.0,Odisha FC
+18,67.0,Yeni Malatyaspor
+19,68.0,Yeni Malatyaspor
+20,67.5,Yeni Malatyaspor
+21,67.0,Yeni Malatyaspor
+22,67.0,Yeni Malatyaspor
+22,56.0,Chennaiyin
+23,55.0,Chennaiyin
+22,55.0,Goa
+23,55.0,Goa
+22,56.0,Kerala Blasters
+23,57.0,Kerala Blasters
+22,56.0,Mumbai City
+23,56.0,Mumbai City
+22,56.0,Hyderabad
+23,55.0,Hyderabad
+22,55.0,Bengaluru
+23,55.0,Bengaluru
+20,60.0,Al Adalh
+21,60.0,Al Adalh
+23,58.0,Al Adalh
+22,64.0,Amorebieta
+20,64.0,Sepsi
+21,64.0,Sepsi
+22,65.0,Sepsi
+23,65.0,Sepsi
+22,62.0,Mioveni
+23,62.0,Mioveni
+20,62.0,Chindia Târgovişte
+21,63.0,Chindia Târgovişte
+22,63.0,Chindia Târgovişte
+23,63.0,Chindia Târgovişte
+20,62.0,Academica Clinceni
+21,63.0,Academica Clinceni
+22,59.0,Academica Clinceni
+18,63.0,Sirius
+19,63.0,Sirius
+20,63.0,Sirius
+21,63.0,Sirius
+22,61.0,Sirius
+23,62.0,Sirius
+18,62.0,Kristiansund
+19,63.0,Kristiansund
+20,63.0,Kristiansund
+21,63.0,Kristiansund
+22,63.0,Kristiansund
+23,62.0,Kristiansund
+20,71.0,CSA
+18,66.0,Tosno
+18,58.0,FC Helsingør
+22,63.0,Guayaquil City
+21,60.0,Varberg BoIS
+22,60.0,Varberg BoIS
+23,61.0,Varberg BoIS
+23,66.0,Ümraniyespor
+19,61.0,Dalkurd
+22,61.0,Degerfors
+23,62.0,Degerfors
+20,62.0,Salford City
+21,62.0,Salford City
+22,62.0,Salford City
+23,63.0,Salford City
+19,64.0,Béziers
+20,67.0,Pordenone
+22,66.0,UD Ibiza
+23,65.0,UD Ibiza
+21,62.0,Stal Mielec
+22,63.0,Stal Mielec
+23,63.0,Stal Mielec
+20,63.0,Western United
+21,61.0,Western United
+22,62.0,Western United
+23,63.0,Western United
+21,62.0,Plaza Colonia
+20,64.0,Hermannstadt
+21,63.0,Hermannstadt
+23,63.0,Hermannstadt
+22,66.0,Austin
+23,66.0,Austin
+21,65.0,Nashville SC
+22,66.0,Nashville SC
+23,65.0,Nashville SC
+22,55.0,Jamshedpur
+23,55.0,Jamshedpur
+20,64.0,Raków Częstochowa
+21,65.0,Raków Częstochowa
+22,66.0,Raków Częstochowa
+23,67.0,Raków Częstochowa
+21,63.0,Türkgücü-Ataspor
+22,63.0,Türkgücü-Ataspor
+23,67.0,Casa Pia
+21,64.0,Sport Huancayo
+22,64.0,Sport Huancayo
+23,65.0,Ayacucho
+23,64.0,FC Andorra
+21,63.0,River Plate
+22,64.0,River Plate
+21,64.0,Always Ready
+22,64.0,Always Ready
+23,65.0,Always Ready
+22,63.0,Macará
+23,65.0,Royal Pari
+21,64.0,Delfin
+23,65.0,Delfin
+21,64.0,Universidad Católica
+23,66.0,Universidad Católica
+21,64.0,Deportivo Binacional
+21,60.0,Atlético Grau
+22,64.0,Guabirá
+23,63.0,Guabirá
+21,61.0,Macarthur
+22,63.0,Macarthur
+23,60.0,Macarthur
+22,61.0,Academia Puerto Cabello
+23,65.0,Mushuc Runa
+22,65.0,UTC Cajamarca
+22,64.0,Carlos Manucci
+21,60.0,Llaneros de Guanare
+23,56.0,Meizhou Hakka
+23,65.0,Charlotte
+22,64.0,Guaireña
+23,64.0,Guaireña
+21,65.0,Mazatlán
+22,66.0,Mazatlán
+22,63.0,Municipal Vinto
+23,65.0,9 de Octubre
+23,61.0,Jerv
+23,63.0,Annecy
+23,64.0,Independiente Petrolero
+22,70.0,Cuiabá
+23,69.0,Cuiabá
+22,62.0,Rentistas
+22,64.0,Cerro Largo
+23,66.0,Cerro Largo
+23,64.0,Hermanos Colmenares
+22,63.0,U Craiova 1948
+23,63.5,U Craiova 1948
+22,61.0,Viktoria Berlin
+23,63.0,General Caballero JLM
+23,59.0,Chengdu Qianbao
+23,62.0,Wuhan Three Towns
